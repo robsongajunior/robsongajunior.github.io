@@ -1,0 +1,24 @@
+{
+    "name": "Robson Junior",
+    "title": "Robson Junior Website",
+    "domain": "http://robsonjunior.cc",
+    "subtitle": "Powered by Harmonic",
+    "author": "Robson Junior",
+    "description": "",
+    "bio": "Thats me",
+    "theme": "harmonic-theme-robsonjunior",
+    "preprocessor": "less",
+    "posts_permalink" : ":language/:year/:month/:title",
+    "pages_permalink": "pages/:title",
+    "header_tokens": [
+        "<!--",
+        "-->"
+    ],
+    "index_posts": 999,
+    "i18n": {
+        "default": "pt-br",
+        "languages": [
+            "pt-br"
+        ]
+    }
+}
