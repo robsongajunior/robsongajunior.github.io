@@ -7,7 +7,7 @@ published: true
 keywords:
 description: Sabe aquela primeira namorada, primeiro trabalho ou até mesmo aquele primeiro Hello World?
 categories: primeiro, first
-cover: /img/main-banner.jpg
+cover: /images/o-primeiro-a-gente-nunca-esquece/main-banner.jpg
 coverAlt: Robson Junior Cover | Javascript
 -->
 

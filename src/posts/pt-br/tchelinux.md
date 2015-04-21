@@ -7,7 +7,7 @@ published: true
 keywords:
 description:  __TchêLinux__ caiu exatamente uma semana depois da __#JSCONFAR__, fui em um clima de um evento mais light para oficialmente fechar o ano.
 categories: Linux, Unix, TcheLinux, TcheLinux2014, 2014
-cover: /img/tchelinux/tchelinux-cover.jpg
+cover: /images/tchelinux-2014/tchelinux-cover.jpg
 coverAlt: Tche Linux 2014
 -->
 
@@ -15,7 +15,7 @@ O __TchêLinux__ caiu exatamente uma semana depois da __#JSCONFAR__, fui em um c
 
 Sendo bem sincero nosso __TchêLinux__ do dia 06/12 começou no dia 05/12 as 23h, quando o [Gabi](https://www.facebook.com/umgab) chegou lá em casa e começamos ter um papo alto nível sobre: Futuro, tecnologia, empresas e coisas afins.
 
-![Inciando os trabalhos TcheLinux](/img/tchelinux/tchelinux-presabado.jpg)
+![Inciando os trabalhos TcheLinux](/images/tchelinux-2014/tchelinux-presabado.jpg)
 
 Isso me deu um gás pra ir no evento, afinal nunca botei fé em eventos ou qualquer coisa que fosse gratuita, afinal __Open Source/Free__ tem uma _diferença_ enorme para a palavra __grátis__.
 
@@ -160,7 +160,7 @@ Basicamente cliente side, manipulaçcao no ambiente do Browser, para que um JS o
 * set - social enginner
 
 ###Mesa Redonda - O que o Open Source fez para minha carreira?
-![TcheLinux - Mesa redonda](/img/tchelinux/tchelinux-mesaredonda.jpg)
+![TcheLinux - Mesa redonda](/images/tchelinux-2014/tchelinux-mesaredonda.jpg)
 
 Foi a melhor parte do evento, pra mim e muitos que conversei logo após.
 Ver a galera old school e ouvir seus concelhos e como era nas antigas faz nos pensar cada vez que o Open Source  é o futuro.
@@ -195,5 +195,5 @@ Seja humilde, você não precisa está no foco para que as pessoas te respeitem 
 E claro, pra finalizar o dia de palestras, eu e o brother [Gabi](https://www.facebook.com/umgab), partimos pra aquele chopp com a sensação... __Que venha 2015!__
 
 
-![Fechando os trabalhos TcheLinux](/img/tchelinux/tchelinux-cerveja.jpg)
+![Fechando os trabalhos TcheLinux](/images/tchelinux-2014/tchelinux-cerveja.jpg)
 

@@ -7,13 +7,13 @@ published: true
 keywords:
 description: 2014 simplesmente foi um ano fantástico, me proporciou experiências que eu pensava que iria muitos anos para acontecer
 categories: retrospectiva-2014, 2014
-cover: /img/retrospectiva-2014/cover.png
+cover: /images/retrospectiva-2014/cover.png
 coverAlt: Robson Júnior - Retrospectiva 2014
 -->
 
 2014 simplesmente foi um ano fantástico, me proporciou experiências que eu pensava que iria muitos anos para acontecer, conheci pessoas que nunca pensei que poderia e vi coisas <!--more--> que muitos duvidariam. 
 
-![Terra Networks S/A](/img/retrospectiva-2014/terra.jpg)
+![Terra Networks S/A](/images/retrospectiva-2014/terra.jpg)
 
 A loucura toda começou em fevereiro, quando iniciei o processo seletivo no [Terra](http://www.terra.com.br), até então não passava pela minha cabeça trabalhar em uma Multinacional por sempre duvidar das próprias habilidades.
 
@@ -22,11 +22,11 @@ Tudo foi muito louco, processo seletivo tendo perguntas estranhas e me fazendo t
 Alguns dias depois de todo processo recebo o convite de me recrutar ao time Tecnologia Portal...
 ... Pronto, a zoeira estava pronta, no mesmo dia anunciei festa na piscina com 50L de chopp chama todos amigos e bora comemorar.
 
-![Festa Chopp](/img/retrospectiva-2014/festa-chopp.jpg)
+![Festa Chopp](/images/retrospectiva-2014/festa-chopp.jpg)
 
 Fui recebido por uma galera muito querida e que serei eternamente grato pelo carinho e ajuda para o melhor acolhimento possível.
 
-![Terra Tequila](/img/retrospectiva-2014/terra-tequila.jpg)
+![Terra Tequila](/images/retrospectiva-2014/terra-tequila.jpg)
 
 Logo nos primeiros meses me entrosei e me indentifiquei com a Comunidade, sempre achei demais mas não conseguia frequentar e dedicar algum tempo para ela.
 
@@ -42,7 +42,7 @@ Lá no [SenacRS](http://portal.senacrs.com.br/) conheci Cordenadores e Professor
 Em cima dessa alegria toda veio o [BrazilJS](http://braziljs.com.br/), dois dias de evento totalmente fantástico onde conheci pessoas míticas do mundo web, pessoas que eu sou fã e que estavam ali na minha frente.
 Com certeza a melhor experiencia que eu já poderia ter tido. Foram dois dias de conversas alto nível e um todo senso em comum. O primeiro evento Internacional já tinha feito eu fechar o ano sem ter mais pretenção nenhuma, realmente não acreditava que poderia ser mais louco ainda, aquilo tudo já tinha passado da conta do que eu teria planejado.
 
-![BrazilJS](/img/retrospectiva-2014/braziljs.jpg)
+![BrazilJS](/images/retrospectiva-2014/braziljs.jpg)
 
 Um pouco mais de um ano e meio após o [BrazilJS](http://braziljs.com.br/),
 teria o [FrontInPOA](http://frontinpoa.com.br/), nem preciso falar muito além do que apenas que conseguiram me fazer chorar de alegria.
@@ -51,7 +51,7 @@ Um dia inteiro de palestras muito fortes e alto nível com grandes talentos em u
 
 Esse foi o primeiro dia da vida que ouvi alguém me falar que me seguia no Tweeter e que me conhecia, eu fiquei feliz e espantado ao mesmo tempo, até então nunca teria acontecido nada igual antes. Pra fechar com chave de ouro tive a oportunidade de no final do evento ser chamado ao palco pra ser agradecidopor uma pequena contribuição que poderia ter feito no evento, sendo que não me importaria nunca de poder ajudar, e isso foi uma emoção que ainda também não sei explicar.
 
-![FronInPOA](/img/retrospectiva-2014/frontinpoa.jpg)
+![FronInPOA](/images/retrospectiva-2014/frontinpoa.jpg)
 
 Aproximadamente 1 mês após essa emoção toda, eu tinha confirmado presença no meu primeiro evento Internacional fora do país.
 
@@ -63,7 +63,7 @@ Talks que chegavam dar dor de cabeça de tão porrada que era, tanto conteudo ab
 
 O vídeo do evento fala muito por sí próprio.
 
-![JSConfAR](/img/retrospectiva-2014/jsconfar.jpg)
+![JSConfAR](/images/retrospectiva-2014/jsconfar.jpg)
 
 <iframe width="100%" height="500" style="margin: 0 auto;" src="//www.youtube.com/embed/sItvV4uol58" frameborder="0" allowfullscreen></iframe>
 

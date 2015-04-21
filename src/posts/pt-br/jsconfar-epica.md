@@ -7,7 +7,7 @@ published: true
 keywords:
 description:Toda essa ideia de ir para a JSConfAr surgiu em uma loucura quando saiu a grade das palestras.
 categories: eventos, javascript, jsconfar
-cover: /img/jsconfar-cover.jpg
+cover: /images/jsconfar-2014/jsconfar-cover.jpg
 coverAlt: JS Conf BS AS | Javascript
 -->
 
@@ -25,7 +25,7 @@ O tempo de vôo é muito rápido, 1h aproximadamente e estamos nos hermanos.
 
 Chegando no local do evento, já deu pra ver que tudo estava bem organizado, de cara já tinha um banner de boas vindas e um drone voando muito alto pegando a galera que estava chegando.
 
-![Welcome_dev](/img/jsconfar-02.jpg)
+![Welcome_dev](/images/jsconfar-2014/jsconfar-02.jpg)
 
 Isso já me fez sentir em casa.
 Logo após fazer credenciamento e realmente ver o que estava acontecendo, tive a certeza que seria um evento _épico_.
@@ -33,13 +33,13 @@ Logo após fazer credenciamento e realmente ver o que estava acontecendo, tive a
 Estrutura incrível, local lotado e papo de muito alto nível logo de cara.
 Nesse evento pude conhecer os organizadores da __JSConfUY__ que por sinal irá rolar em março de 2015 e já estou de olho também.
 
-![Organização / Saguão](/img/jsconfar-03.jpg)
+![Organização / Saguão](/images/jsconfar-2014/jsconfar-03.jpg)
 
 Mesa de ping-pong, fla-flu, fliperama, café e suco com comida liberada também, dava pra ver que tinha sido gasto um bom tempo de planejamento.
 
 Ao começar as palestras o saguão logo esvazia e o palco prende atenção de todos.
 
-![JSCONFAR Lotada](/img/jsconfar-full.jpg)
+![JSCONFAR Lotada](/images/jsconfar-2014/jsconfar-full.jpg)
 
 Lugar muito bem montado para ter o maior prazer em estar ali, e por sinal conseguiram cumprir esse objetivo,
 nem preciso falar que estava lotado. Palestras e pessoas/conversas de alto nível.
@@ -70,11 +70,11 @@ e que levarei pro resto da vida.
 
 __Always bet #JS__, que com certeza ele entendia o que era aquele momento, aquela vibe em que estávamos que _só quem está ali, sabe o que realmente isso é e significa._
 
-![JSCONFAR Lotada](/img/jsconfar-alwaysbetjs.jpg)
+![JSCONFAR Lotada](/images/jsconfar-2014/jsconfar-alwaysbetjs.jpg)
 
 
 E logo mais finalizando a noite e marcando registro com os grandes novos amigos que fiz do Uruguay, lá estavamos nós brasileiros.ç
-![JSCONFAR Lotada](/img/jsconfar-final.jpg)
+![JSCONFAR Lotada](/images/jsconfar-2014/jsconfar-final.jpg)
 
 
 ## Resumo
