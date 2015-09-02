@@ -11,7 +11,7 @@ cover: /images/senac-talks-2015-1/cover.jpg
 coverAlt: Primeir Senac Talks 2015
 -->
 
-Senac Talks é um evento promovido pela [Faculdade de Tecnologia Senac RS](http://www.senacrs.com.br/), ele vem com a intenção de promover discuções sobre tecnologia, mercado de trabalho e o que acontece nesse mundo. <!--more-->
+Senac Talks é um evento promovido pela [Faculdade de Tecnologia Senac RS](http://www.senacrs.com.br/), ele vem com a intenção de promover discuções sobre tecnologia, mercado de trabalho e o que <!--more--> acontece nesse mundo.
 
 Esse foi o primeiro encontro desse ano, e só para não fugir do caminho certo, rolou muita cafeína e ideia sobre tecnologia.
 

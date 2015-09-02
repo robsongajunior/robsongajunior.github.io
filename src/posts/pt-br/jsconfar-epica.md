@@ -11,7 +11,7 @@ cover: /images/jsconfar-2014/jsconfar-cover.jpg
 coverAlt: JS Conf BS AS | Javascript
 -->
 
-Toda essa ideia de ir para a JSConfAr surgiu em uma loucura quando saiu a grade das palestras, olhando vi que só palestrante que quebrariam a banca lá nos hermanos, logo de cara vi <!--more--> que o [Jaydson](https://twitter.com/jaydson) iria palestrar.
+Toda essa ideia de ir para a JSConfAr surgiu em uma loucura quando saiu a grade das palestras, olhando vi que só palestrante que quebrariam a banca lá nos hermanos, logo<!--more--> de cara vi que o [Jaydson](https://twitter.com/jaydson) iria palestrar.
 
 -Cara, não posso deixar de prestigiar essa!
 
