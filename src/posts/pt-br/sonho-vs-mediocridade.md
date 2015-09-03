@@ -19,7 +19,7 @@ como chegar ao sucesso, é sempre aquelas clássicas e entediante respostas bla 
 
 > Estudar, fazer network, trabalhar duro, dedicação e mais bla bla bla.
 
-Bom, tudo que irei falar daqui por diante é de opnião pessoal e não estou falando que o que está errado, com isso todos estão livres para discordar ou concordar, mas desde já, aviso:
+Bom, tudo que irei falar daqui por diante é de opinião pessoal e não estou falando que o que está errado, com isso todos estão livres para discordar ou concordar, mas desde já, aviso:
 
 > Não irei discutir sobre, isso é apenas para reflexão.
 
@@ -66,7 +66,7 @@ Tenha seus heróis, não é feio falar que você tem heróis e que se espelha ne
 * Gostar e querer ser o melhor que puder, não pelos outros e sim por você;
 * Nunca esqueça o que e quem você é, principalmente de onde veio;
 * Psicológico forte;
-* Não ligue para opnião de ninguém, eles não entendem e realmente não importa o que pensam;
+* Não ligue para opinião de ninguém, eles não entendem e realmente não importa o que pensam;
 * Nunca, nunca desista... Afinal, ninguém falou que seria fácil;
 * Não seja da geração que tudo planeja e nada faz.
 
