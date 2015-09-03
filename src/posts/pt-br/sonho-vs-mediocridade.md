@@ -12,7 +12,7 @@ coverAlt: Sonhos vs Mediocridade
 -->
 
 
-Resolvi escrever esse texto para poder descrever o que sinto em relação quando uma pessoa me pergunta algo sobre sucesso, careira etc ...
+Resolvi escrever esse texto para poder descrever o que sinto em relação quando uma pessoa me pergunta algo sobre sucesso, carreira etc ...
 
 Sempre achei   isso uma pergunta idiota, afinal <!--more--> todos nós sabemos
 como chegar ao sucesso, é sempre aquelas clássicas e entediante respostas bla bla bla de sempre:
