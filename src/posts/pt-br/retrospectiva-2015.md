@@ -105,7 +105,7 @@ Pude prestigiar o [FrontInSampa](http://www.frontinsampa.com.br/) e me desculpem
 ![FrontInSampa](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12278742_929953133751596_6868817427209483525_n.jpg?oh=87435b2153e8ddeacea7f980a0b7b9ab&oe=57147647&__gda__=1460466972_67e49e5e9031d1c48789ab5da791d030)
 
 
-Pude prestigiar também também Aracajú(Sergipe), no [RockAndCode/FrontInAracaju](http://www.frontinaracaju.com.br/) mais de 3.000km de casa, foi de arrepiar, nunca estive tão longe de casa e além disso estava sozinho.
+Pude prestigiar também Aracajú(Sergipe), no [RockAndCode/FrontInAracaju](http://www.frontinaracaju.com.br/) mais de 3.000km de casa, foi de arrepiar, nunca estive tão longe de casa e além disso estava sozinho.
 A receptividade na cidade foi fora do sério, agradeço muito ao [Ítalo](https://www.linkedin.com/in/italowaxman) que deu a força lá para que a experiência fosse a melhor possível.
 
 Bom, nem preciso falar porque o nome já faz jus ao evento, rolou talk técnica, sobre mercado de trabalho e principalmente não faltou Metal pra galera com uma vista irada de frente para o mar.
@@ -125,10 +125,10 @@ O que tenho pra dizer sobre isso tudo é...
 * Não tenha vergonha de falar que não sabe e de pedir ajuda
 * Não existe RockStars, existe gente que estuda/trabalha forte
 * OpenSource vale a pena sim e faz muito por nós
-* Te chamam de louco? Está no caminho certo, não se chega a lugar um diferente traçando caminho que outros já fizeram
-* As pessoas olham o que voce faz mesmo sem voce saber disso
+* Te chamam de louco? Está no caminho certo, não se chega em um lugar diferente o traçando caminho que outros já traçaram
+* As pessoas olham o que voce faz, e voce não sabe disso
 
-Além disso eu queria agradecer do fundo do meu coração a todos que fizeram parte desse ano e que me ajudaram conquistar isso tudo, não irei escrever nomes
+Queria agradecer do fundo do meu coração a todos que fizeram parte desse ano e que me ajudaram conquistar isso tudo, não irei escrever nomes
 pois a lista é grande e eu não quero correr o risco de ser injusto e esquecer alguém, porque realmente teve muita gente torcendo por mim e isso é de arrepiar.
 
 Obrigado mais uma vez!!
