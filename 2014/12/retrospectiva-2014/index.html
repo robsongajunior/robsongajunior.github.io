@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+
+    <title>Retrospectiva 2014 - Robson Júnior</title>
+
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    <meta name="author" content="@robsongajunior">
+    <meta name="description" content="Aqui conto o que acontece na minha carreira, o que estudo e tudo que venho aprontando no mundo developer.">
+    <meta name="keywords" content="Robson Júnior, carreira, palestras, javascript, JS, ECMAScript, ES6, Harmonic, front-end">
+
+    
+    <meta property="og:description" content="2014 simplesmente foi um ano fantástico, me proporciou experiências que eu pensava que iria muitos anos para acontecer">
+    <meta property="og:image" content="http://robsongajunior.github.io//images/share/profile-robsongajunior.jpg">
+    <meta property="og:site_name" content="robsonjunior">
+    <meta property="og:title" content="Robson Júnior - Retrospectiva 2014">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://robsongajunior.github.io/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="http://robsongajunior.github.io/">
+    <meta name="twitter:creator" content="@robsongajunior">
+    <meta name="twitter:title" content="Robson Júnior - Retrospectiva 2014">
+    <meta name="twitter:description" content="2014 simplesmente foi um ano fantástico, me proporciou experiências que eu pensava que iria muitos anos para acontecer">
+    <meta name="twitter:image" content="http://robsongajunior.github.io//images/profile-robsongajunior.jpg">
+
+    
+    <link rel="canonical" href="http://robsongajunior.github.io/" />
+
+    
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/vendor/prism.css" />
+</head>
+<body id="single">
+
+    <header id="header"> <nav class="social wrap-content">
+    <h1 id="logo">
+        <a href="/" title="Robson Júnior"> Robson Júnior </a>
+    </h1>
+
+    <ul class="social__list">
+        <li class="social__item">
+            <a class="social__link" href="https://twitter.com/robsongajunior">
+                <svg version="1.1" width="32" height="32" viewBox="0 0 32 32">
+    <path d="M32 6.076c-1.177 0.522-2.443 0.875-3.771 1.034 1.355-0.813 2.396-2.099 2.887-3.632-1.269 0.752-2.674 1.299-4.169 1.593-1.198-1.276-2.904-2.073-4.792-2.073-3.626 0-6.565 2.939-6.565 6.565 0 0.515 0.058 1.016 0.17 1.496-5.456-0.274-10.294-2.888-13.532-6.86-0.565 0.97-0.889 2.097-0.889 3.301 0 2.278 1.159 4.287 2.921 5.465-1.076-0.034-2.088-0.329-2.974-0.821-0.001 0.027-0.001 0.055-0.001 0.083 0 3.181 2.263 5.834 5.266 6.437-0.551 0.15-1.131 0.23-1.73 0.23-0.423 0-0.834-0.041-1.235-0.118 0.835 2.608 3.26 4.506 6.133 4.559-2.247 1.761-5.078 2.81-8.154 2.81-0.53 0-1.052-0.031-1.566-0.092 2.905 1.863 6.356 2.95 10.064 2.95 12.076 0 18.679-10.004 18.679-18.68 0-0.285-0.006-0.568-0.019-0.849 1.283-0.926 2.396-2.082 3.276-3.398z" fill="#fff" />
+</svg>
+            </a>
+        </li>
+        <li class="social__item">
+            <a class="social__link" href="https://github.com/robsongajunior">
+                <svg version="1.1" width="32" height="32" viewBox="0 0 32 32">
+    <path d="M0 17.388c0 1.45 0.136 2.762 0.407 3.935 0.271 1.174 0.647 2.193 1.127 3.059 0.48 0.866 1.090 1.627 1.831 2.285 0.741 0.657 1.544 1.195 2.41 1.612 0.866 0.417 1.854 0.756 2.965 1.017 1.111 0.261 2.245 0.443 3.403 0.548 1.158 0.104 2.431 0.156 3.818 0.156 1.398 0 2.676-0.052 3.834-0.156 1.158-0.104 2.295-0.287 3.411-0.548 1.116-0.261 2.11-0.6 2.981-1.017 0.871-0.417 1.68-0.954 2.425-1.612 0.746-0.657 1.361-1.419 1.846-2.285 0.485-0.866 0.863-1.886 1.134-3.059 0.271-1.174 0.407-2.486 0.407-3.935 0-2.587-0.866-4.825-2.597-6.713 0.094-0.25 0.18-0.535 0.258-0.853 0.078-0.318 0.151-0.772 0.219-1.361 0.068-0.589 0.042-1.27-0.078-2.042-0.12-0.772-0.342-1.56-0.665-2.363l-0.235-0.047c-0.167-0.031-0.441-0.023-0.822 0.024s-0.824 0.141-1.33 0.282c-0.506 0.141-1.158 0.412-1.956 0.814-0.798 0.402-1.64 0.905-2.527 1.51-1.523-0.417-3.615-0.626-6.275-0.626-2.65 0-4.736 0.209-6.259 0.626-0.887-0.605-1.734-1.108-2.543-1.51-0.808-0.402-1.453-0.673-1.933-0.814-0.48-0.141-0.928-0.232-1.346-0.274-0.417-0.042-0.681-0.055-0.79-0.039-0.11 0.016-0.196 0.034-0.258 0.055-0.323 0.803-0.545 1.591-0.665 2.363-0.12 0.772-0.146 1.453-0.078 2.042 0.068 0.589 0.141 1.043 0.219 1.361 0.078 0.318 0.164 0.602 0.258 0.853-1.732 1.888-2.598 4.126-2.598 6.713zM3.928 21.315c0-1.502 0.683-2.879 2.050-4.131 0.407-0.376 0.881-0.66 1.424-0.853 0.542-0.193 1.155-0.302 1.839-0.329 0.683-0.026 1.338-0.021 1.964 0.016 0.626 0.037 1.398 0.086 2.316 0.149 0.918 0.063 1.711 0.094 2.379 0.094 0.668 0 1.46-0.031 2.378-0.094 0.918-0.063 1.69-0.112 2.316-0.149 0.626-0.037 1.28-0.042 1.964-0.016 0.683 0.026 1.296 0.136 1.839 0.329 0.542 0.193 1.017 0.477 1.424 0.853 1.367 1.231 2.050 2.608 2.050 4.131 0 0.897-0.112 1.693-0.337 2.386-0.224 0.694-0.511 1.275-0.861 1.745-0.349 0.469-0.834 0.868-1.455 1.197-0.621 0.329-1.226 0.582-1.815 0.759-0.589 0.177-1.346 0.316-2.269 0.415-0.923 0.099-1.747 0.159-2.472 0.18-0.725 0.021-1.646 0.031-2.762 0.031-1.116 0-2.037-0.010-2.762-0.031-0.725-0.021-1.549-0.081-2.472-0.18-0.923-0.099-1.68-0.237-2.269-0.415-0.589-0.177-1.194-0.43-1.815-0.759-0.621-0.329-1.106-0.728-1.455-1.197-0.349-0.469-0.636-1.051-0.861-1.745-0.224-0.694-0.336-1.489-0.336-2.386zM20 21c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3zM8 21c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3z" fill="#fff" />
+</svg>
+            </a>
+        </li>
+    </ul>
+</nav> </header>
+
+
+
+    <figure id="mainBanner" class="main-banner internal-banner" data-banner-src="/images/retrospectiva-2014/cover.png" data-banner-alt="{post.metadata.coverAlt}}">
+        <figcaption> <h2 id="titleBlur" class="title">Retrospectiva 2014</h2> </figcaption>
+    </figure>
+
+    <main id="main">
+        <section class="single-page wrap-content">
+            <article class="postContent"><p>2014 simplesmente foi um ano fantástico, me proporciou experiências que eu pensava que iria muitos anos para acontecer, conheci pessoas que nunca pensei que poderia e vi coisas  que muitos duvidariam. </p>
+<p><img src="/images/retrospectiva-2014/terra.jpg" alt="Terra Networks S/A"></p>
+<p>A loucura toda começou em fevereiro, quando iniciei o processo seletivo no <a href="http://www.terra.com.br">Terra</a>, até então não passava pela minha cabeça trabalhar em uma Multinacional por sempre duvidar das próprias habilidades.</p>
+<p>Tudo foi muito louco, processo seletivo tendo perguntas estranhas e me fazendo ter que realizar uma mini palestra para ensinar ao Cordenador de Tecnologia Portal o que eu considerava importante no mundo Web, confesso que tremia e suava frio, afinal sabia que erda a chance da minha vida. </p>
+<p>Alguns dias depois de todo processo recebo o convite de me recrutar ao time Tecnologia Portal...
+... Pronto, a zoeira estava pronta, no mesmo dia anunciei festa na piscina com 50L de chopp chama todos amigos e bora comemorar.</p>
+<p><img src="/images/retrospectiva-2014/festa-chopp.jpg" alt="Festa Chopp"></p>
+<p>Fui recebido por uma galera muito querida e que serei eternamente grato pelo carinho e ajuda para o melhor acolhimento possível.</p>
+<p><img src="/images/retrospectiva-2014/terra-tequila.jpg" alt="Terra Tequila"></p>
+<p>Logo nos primeiros meses me entrosei e me indentifiquei com a Comunidade, sempre achei demais mas não conseguia frequentar e dedicar algum tempo para ela.</p>
+<p>Dois ou três meses mais a frente fui em meu primeiro evento Javascript, o #RSJS. Evento voltado totalmente a Front End com palestrantes míticos e Networking violento. Esse foi o dia que a lista dos heróis cresceram de forma gigantesca.</p>
+<p>Continuei o caminho tentando estudar e tirar o máximo proveito de toda essa oportunidade, desde então não parei mais de ir a eventos e de querer parar um dia se quer na zona de conforto.</p>
+<p>Logo na sequência veio um outro tabu, a troca de Faculdade.
+Muito das pessoas que pedi concelhos falavam pra não mudar que o que importava era o canudo, mas não contente com essas respostas resolvi mesmo assim trocar porque não me sentia feliz onde estava, foi com certeza uma das melhores escolhas que puder fazer.</p>
+<p>Lá no <a href="http://portal.senacrs.com.br/">SenacRS</a> conheci Cordenadores e Professores incríveis onde se encaixou tudo o que eu precisava, uma galera agitada e com sede de todo dia aprender algo novo, e isso é espetacular.</p>
+<p>Em cima dessa alegria toda veio o <a href="http://braziljs.com.br/">BrazilJS</a>, dois dias de evento totalmente fantástico onde conheci pessoas míticas do mundo web, pessoas que eu sou fã e que estavam ali na minha frente.
+Com certeza a melhor experiencia que eu já poderia ter tido. Foram dois dias de conversas alto nível e um todo senso em comum. O primeiro evento Internacional já tinha feito eu fechar o ano sem ter mais pretenção nenhuma, realmente não acreditava que poderia ser mais louco ainda, aquilo tudo já tinha passado da conta do que eu teria planejado.</p>
+<p><img src="/images/retrospectiva-2014/braziljs.jpg" alt="BrazilJS"></p>
+<p>Um pouco mais de um ano e meio após o <a href="http://braziljs.com.br/">BrazilJS</a>,
+teria o <a href="http://frontinpoa.com.br/">FrontInPOA</a>, nem preciso falar muito além do que apenas que conseguiram me fazer chorar de alegria.</p>
+<p>Um dia inteiro de palestras muito fortes e alto nível com grandes talentos em um único lugar e de diferentes gerações.</p>
+<p>Esse foi o primeiro dia da vida que ouvi alguém me falar que me seguia no Tweeter e que me conhecia, eu fiquei feliz e espantado ao mesmo tempo, até então nunca teria acontecido nada igual antes. Pra fechar com chave de ouro tive a oportunidade de no final do evento ser chamado ao palco pra ser agradecidopor uma pequena contribuição que poderia ter feito no evento, sendo que não me importaria nunca de poder ajudar, e isso foi uma emoção que ainda também não sei explicar.</p>
+<p><img src="/images/retrospectiva-2014/frontinpoa.jpg" alt="FronInPOA"></p>
+<p>Aproximadamente 1 mês após essa emoção toda, eu tinha confirmado presença no meu primeiro evento Internacional fora do país.</p>
+<p>Uma mistura de adrenalina, medo, alegria e sonho tudo junto.</p>
+<p>A <a href="https://www.jsconfar.com/">JSConfAR</a> me levou ao ápice da emoção e do que eu poderia esperar.</p>
+<p>Talks que chegavam dar dor de cabeça de tão porrada que era, tanto conteudo absorvido em um único dia.</p>
+<p>O vídeo do evento fala muito por sí próprio.</p>
+<p><img src="/images/retrospectiva-2014/jsconfar.jpg" alt="JSConfAR"></p>
+<iframe width="100%" height="500" style="margin: 0 auto;" src="//www.youtube.com/embed/sItvV4uol58" frameborder="0" allowfullscreen></iframe>
+
+<p>Até hoje me emociono quando lembro que estava lá, e que isso tudo, esse ano todo foi um grande sonho que veio pra vida real.</p>
+<p>Não bastando todas essas histórias que contei, uma semana após a <a href="https://www.jsconfar.com/">JSConfAR</a> me tornei membro do <a href="http://es6rocks.com/">#ES6ROCKS</a>.
+Isso me adicionu mais 200% na conta de 2014, fazendo ele realmente ter sido o ano mais foda da minha vida.</p>
+<p>Termino o ano com a sensação de missão cumprida e alma lavada, isso foi apenas o primeiro ano do resto da minha vida.</p>
+<p>Agradeço do fundo do coração a todas pessoas que estavam comigo nesses dias e que tem sido minhas inspirações, sem elas nada disso teria acontecido.</p>
+<h2 id="-lt-2014-gt-">&lt;/2014&gt;</h2>
+<p><strong>QUE VENHA 2015</strong></p>
+</article>
+
+            <ul class="categories">
+                
+                    <li>
+                        <a class="categoryTag retrospectiva-2014" href="/categories/retrospectiva-2014">
+                            retrospectiva-2014
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a class="categoryTag 2014" href="/categories/2014">
+                            2014
+                        </a>
+                    </li>
+                
+            </ul>
+            <div class="sntw-wraper postContent">
+                <h3 class="title-med">Compartilhar</h3>
+
+                <ul class="article-share">
+                    <li><a class="icon fb-share btn-share" title="Facebook"     href="https://www.facebook.com/sharer.php?u=http://robsongajunior.github.io//2014/12/retrospectiva-2014"></a></li>
+                    <li><a class="icon tt-share btn-share" title="Tweeter"      href="https://twitter.com/intent/tweet?url=http://robsongajunior.github.io//2014/12/retrospectiva-2014"></a></li>
+                    <li><a class="icon gp-share btn-share" title="Google Plus"  href="https://plus.google.com/share?url=http://robsongajunior.github.io//2014/12/retrospectiva-2014"></a></li>
+                </ul>
+            </div>
+            <div class="postContent"> <section id="comments" class="comments">
+	<h3 class="title-med">Comentários</h3>
+
+    <div id="disqus_thread"></div>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section> </div>
+        </section>
+
+        <div class="clearfix"></div>
+    </main>
+
+    <footer id="footer">
+    <div class="wrap-content">
+        <cite>
+            Orgulhosamente criado com <a href="https://github.com/es6rocks/harmonic/" target="_blank">Harmonic</a>.
+        </cite>
+    </div>
+</footer>
+
+
+<script type="text/javascript" src="/js/main.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/vendor/prism.js" charset="utf-8"></script>
+
+</body>
+</html>
