@@ -53,7 +53,7 @@ Aaaah, só para registro, uma das coisas que mais me frustou esse ano é que ao 
 
 Tentei me aperfeiçoar mais como profissional nesse ano, isso
 é um pouco diferente do que me tornar com  uma skill técnica maior,
-deixa de ser um poucoo lado técnico mas foca em melhorar coisas como postura,expressão de ideias,
+deixar de ser um pouco o lado técnico, mas focar em melhorar coisas como postura, expressão,
 ouvir de forma melhor, forma de olhar os desafios etc ...
 
 Há algum tempo eu também venho me questionando de forma mais intensiva
@@ -84,24 +84,26 @@ se era pra cair iria cair atirando...
 
 Passei mais um tempo escrevedo HTML no meu novo time, Trouxe a renderização do BE para o FE e vice-versa em algumas ocasiões...
 
-... o tempo foi passando, as reformas aconteceram, projeto novo surgiu e então ocorreu mudanças, com isso passei a ser o único
+... o tempo foi passando, as reformas aconteceram, projeto novo surgiu e então ocorreram mudanças, com isso passei a ser o único
 Front-End no time e o que mais entendia no momento toda arquiteura Front-End.
 
 Maaaaaano, porrra sério agora o bagulho ficou louco.
 E meu medo de fracassar nessa porra, sei lá, na época tinha medo de estimar tempo errado, de errar de tudo até de chegar na empresa hahahahaha
 
-Claaaro, isso tudo aconteceu. Errei estimativa de tempo, lógicas de apliacações, tudo como não tinha que ser mas que no fundo sabemos
+Claaaro, isso tudo aconteceu.
+Errei estimativa de tempo, lógicas de aplicações, tudo como não tinha que ser mas que no fundo sabemos
 que não seria diferente.
 
-A confiança e saber o que estava fazendo veio vindo porque também não estava totalmente sozinhos, tenho até agora posso dizer
+A confiança e saber o que estava fazendo veio vindo porque também não estava totalmente sozinho, tenho até agora posso dizer
 os melhores engenheiros que poderia ter para consultar e aprender tudo que eles sabem, isso me ajudou e me tornou o que sou agora alguns meses depois disso tudo.
 
 Depois entrou um outro Front-End comigo, mais novo, mas que estava fazendo um excelente trabalho na empresa e que tinha entrado a pouco tempo.
 Posso dizer que uma excelente revelação da empresa, ele entrou 2 anos atrás sem saber nada e hoje estava em um time com um produto gigante, e não só isso
 já tem também excelentes e importantes contribuições no Portal. E se bobiar até com mais medos que eu HAHAHAHA
 
-Fomos trabalhando duro e viramos um produto para todo Lataam.Foi muto trabalho duro mas também tinhamos a sensação de alivio, a primeira
-etapa estava concluida...
+Fomos trabalhando duro e viramos um produto para todo LATAM.
+Foi muito trabalho duro mas também tinhamos a sensação de alivio,
+a primeira etapa estava concluida...
 
 ![Ozone Front Enders](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-9/12321189_10205496338637744_3468828978796506804_n.jpg?oh=8461e61f5c45548d9ca40325f456caf4&oe=58F081A7)
 
@@ -118,7 +120,7 @@ Isso, com certeza junto com a saída de um outro engenheiro, que saiu de arquite
 aí que começou a evolução que citei lá no início.
 
 Responsabilidades eram maiores, o poder também cresceu e junto com isso todo o entendimento sobre o
-projeto técnico e alto nível eram maiores, com o tempo outras necessidades foram apacendo também.
+projeto técnico e alto nível eram maiores, com o tempo outras necessidades foram aparecendo também.
 
 Estamos em uma batida forte sobre qualidade em cima dos produtos,
 tive a oportunidade de começar um projeto de Testes Funcionais (irei falar em outro texto em 2017 :p)
@@ -133,7 +135,7 @@ Agora no final do ano,
 
 Acho que deu pra sentir um pouco da situação toda que me deparei esse ano no lado profissional.
 
-Não bastanto isso, estamos junto os maiores do mundo e sendo admirados como pode ser visto no link a baixo:
+Não bastando isso, estamos junto aos maiores do mundo e sendo admirados como pode ser visto no link a baixo:
 
 
 [_http://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html_](http://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html)
@@ -213,7 +215,7 @@ Eu tinha 18h para criar algo em Python e mostrar para galera.
 Presta atenção, meu primeiro evento de Python o maior do Brasil e eu queria passar algo para galera?
 Issoooo, voce entendeu bem hahahahahahahaha
 
-Pensando no que criar um antigo Chefe meu me dá ideia de fazer uma corrida de lebres, lembrando o que aprendi na tarde sonre treads aquilo se encaixou perfeito.
+Pensando no que criar um antigo Chefe meu me dá ideia de fazer uma corrida de lebres, lembrando o que aprendi na tarde sobre threads aquilo se encaixou perfeitamente.
 
 ![Codificando a Corrida de Lebre](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-9/14705815_1093503514037877_6336572079709651368_n.jpg?oh=2e226fa7fa15d5943442a354f9e45cbc&oe=58E4E4BF)
 
@@ -338,15 +340,15 @@ mas eu sinto e algumas pessoas já me disseram isso também.
 O principal disso tudo é que aprendi a dar valor mais para o que me melhora e consegui isolar tudo aquilo
 que não me melhora e de uma forma totalmente sem encontrar problemas.
 
-Isso tudo me ensinou que quando voce quer se tornar o melhor e sabe o caminho, não importa mais a opnião de ninguém
+Isso tudo me ensinou que quando voce quer se tornar o melhor e sabe o caminho, não importa mais a opinião de ninguém
 e voce começa a parar de ver problemas e começa apenas executar o que é necessário para que no final de tudo,
 voce possa ter atingindo a sua meta.
 
 Vendo um pouco mais a área BioHacking, também comecei prestar mais atenção no meu corpo e no meu metabolismo,
 para começar tirar mais proveito dele do que normalmente tiramos, quero cada vez mais me conectar comigo mesmo e 
 estar 100% focado no que estiver fazendo no momento, mais conhecido como estar presente. Procurando trabalhar desde ter um melhor
-sono, melhor alimentação ou até mesmo cortar decisões que não convém naquele momento, as vezes até mesmousar algum tipo de suplemento
-para te ajudar em algo e seu corpo não sofrer agressões, assim não se sentindo tão cansado final do dia.
+sono, melhor alimentação ou até mesmo cortar decisões que não convém naquele momento, às vezes até mesmo usar algum tipo de suplemento para te ajudar em algo
+e seu corpo não sofrer agressões, assim não se sentindo tão cansado final do dia.
 
 
 Tanta coisa já aconteceu e eu ainda tenho tanta coisa pra escrever...
@@ -368,11 +370,11 @@ tinhamos aquela seleção no palco como: Felipe Moura, Jaydson, Sérgio Lopes, J
 Tem muito palestrante bom, mas não transpiram a vibe que era antes, isso acredito que de pra notar pela diferença na quantidade de pessoas, ninguém pode negar!
 
 Sempre cada talk deles eram conteudo de dar dor de cabeça, quando hoje são uma ou duas que desperta real interesse.
-Algumas pessoas talvez não goste de ler essa parte, mas ok é minha retrospectiva e um dos motivos que não tenho mais me interessado muito e acho interessante não ficar inventando mentirinhas
-para ter uma dsculpa amigavel, a parada tem que ser transaparente mesmo para faazer sentido. Mas, o fator que mais foi determinante é meu crescimento
+Algumas pessoas talvez não goste de ler essa parte, mas ok é minha retrospectiva e um dos motivos que não tenho mais me interessado muito e acho interessante não ficar inventando mentirinhas para ter uma desculpa amigável,
+a parada tem que ser transparente mesmo para fazer sentido. Mas, o fator que mais foi determinante é meu crescimento
 na área Back-End ter crescido, hoje estou mais interessado em aprender NodeJS, Python e arquitetura do que focar apenas Front-End.
 
-Esse ano não me interessei por palestrar também, me senti no momento de esudar mais
+Esse ano não me interessei por palestrar também, me senti no momento de estudar mais
 para poder estar mais preparado na hora de mostrar alguma coisa para galera. Queria focar somente em mim.
 
 Aaah, não irei mentir que tenho centenas de códigos commitados para comunidade que não tenho,
