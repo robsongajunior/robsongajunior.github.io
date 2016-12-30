@@ -17,7 +17,7 @@ Faz muito tempo que não apareço por aqui,
 então nada melhor do que fazer uma retrospectiva para refletir sobre todo meu ano.
 
 Eu nunca acreditei que quando um ano inicia um clico novo começa.
-<!-- more -->
+<!--more-->
 Acredito que é a continuação do trabalho anterior irá continuar acontecendo, se um bom trabalho os resultados serão bons,
 caso não, terá resultados ruins, mas gosto de usar esse período do ano para fazer reflexões.
 
