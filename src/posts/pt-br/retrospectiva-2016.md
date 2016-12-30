@@ -138,7 +138,7 @@ Não bastanto isso, estamos junto os maiores do mundo e sendo admirados como pod
 
 [_http://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html_](http://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html)
 
-Podemos estar na décima posição em um hank de 10, mas são 10 gigantes...
+Podemos estar na décima posição em um ranking de 10, mas são 10 gigantes...
 
 ... mais dificil que estar em primeiro entre os pequenos é estar entre os 10 maiores do mundo!
 
@@ -200,7 +200,7 @@ Lá vi um dos slides com lição de moral que mais fez sentido até hoje!
 
 ![Seja humilde](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-0/p480x480/14725626_1094597577261804_590756071388666537_n.jpg?oh=cc0142821e727f9e02d5b859e0c50649&oe=58F06EE3)
 
-Conversando sobre tecnologia entramos no assunto treads onde eu não tinha conhecimento até então...
+Conversando sobre tecnologia entramos no assunto threads onde eu não tinha conhecimento até então...
 ... ele puxou o material que usou pra ensinar os professores da federal e começou me ensinar, se passou uns 40minutos
 e ele falava e eu ali o mais atento possível.
 
@@ -370,7 +370,7 @@ Tem muito palestrante bom, mas não transpiram a vibe que era antes, isso acredi
 Sempre cada talk deles eram conteudo de dar dor de cabeça, quando hoje são uma ou duas que desperta real interesse.
 Algumas pessoas talvez não goste de ler essa parte, mas ok é minha retrospectiva e um dos motivos que não tenho mais me interessado muito e acho interessante não ficar inventando mentirinhas
 para ter uma dsculpa amigavel, a parada tem que ser transaparente mesmo para faazer sentido. Mas, o fator que mais foi determinante é meu crescimento
-na área Beck-End ter crescido, hoje estou mais interessado em aprender NodeJS, Python e arquitetura do que focar apenas Front-End.
+na área Back-End ter crescido, hoje estou mais interessado em aprender NodeJS, Python e arquitetura do que focar apenas Front-End.
 
 Esse ano não me interessei por palestrar também, me senti no momento de esudar mais
 para poder estar mais preparado na hora de mostrar alguma coisa para galera. Queria focar somente em mim.
