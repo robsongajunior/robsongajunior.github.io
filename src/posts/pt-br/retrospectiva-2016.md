@@ -16,17 +16,17 @@ coverAlt: Capa Retrospectiva 2016
 Faz muito tempo que não apareço por aqui,
 então nada melhor do que fazer uma retrospectiva para refletir sobre todo meu ano.
 
-Eu nunca acreditei que quando um ano inicia um clico novo começa.
+Eu nunca acreditei que quando um ano inicia um ciclo novo começa.
 <!--more-->
-Acredito que é a continuação do trabalho anterior irá continuar acontecendo, se um bom trabalho os resultados serão bons,
-caso não, terá resultados ruins, mas gosto de usar esse período do ano para fazer reflexões.
+É a sequência de trabalhos anteriores, projetos que bons ou ruins trazem resultados e são continuados,
+mas gosto de usar esse período do ano para fazer reflexões.
 
 Vamos lá...
 
 
 ## 2016, o que deixamos para trás?
 
-Esse ano deixei de fazer algumas coisas que fazia mas também comecei fazer outras coisas que não fazia.
+Esse ano deixei de fazer algumas coisas que fazia mas também comecei outras.
 Foi um ano que posso dizer:
 
 - Tirei mais para me __auto-conhecer__, sentia que precisava até __fazer mais e falar menos__.
@@ -40,7 +40,7 @@ Pela primeira vez na vida eu estava em um lugar onde não pensei que estaria, e 
 desfocar um pouco em sí próprio e focar mais na situação para tirar o melhor proveito possível.
 
 
-Aaaah, só para registro, uma das coisas que mais me frustou esse ano é que ao renomear a conta no GitHub, sumiu as minhas contribuições __=/__
+Aaaah, só para registro, uma das coisas que mais me frustou esse ano é que ao renomear a conta no GitHub, sumiram as minhas contribuições __=/__
 
 
 ## O que comecei fazer ou fiz mais?

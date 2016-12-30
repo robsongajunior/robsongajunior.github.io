@@ -11,8 +11,8 @@ cover: /images/retrospectiva-2015/cover.jpg
 coverAlt: Capa Retrospectiva 2015
 -->
 
-Quando 2015 começou, eu já tinha uma leve sensação que seria um ano diferente. 
-Tinha planos para o trabalho, eventos fora do estado que gostaria de participar e 
+Quando 2015 começou, já tinha uma leve sensação que seria um ano diferente.
+Os planos para o trabalho, eventos gostaria de participar e 
 uma lista grande de coisas para estudar. <!--more-->
 
 Além disso tudo, eu tinha muita vontade de começar palestrar, assim podendo contar para a comunidade o que eu gosto, e o que ando estudando.
