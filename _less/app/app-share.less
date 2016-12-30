@@ -1,0 +1,35 @@
+@y: 30px;
+@x: 30px;
+
+@w: @y;
+@h: @x;
+
+.article-share {
+	margin: 0;
+	display: block;
+	list-style: none;
+
+	li {
+		display: inline-block;
+		margin: 0 5px 0 0;
+		width: @y;
+		height: @x;
+	}
+
+	.btn-share {
+		display: block;
+		width: @y;
+		height: @x;
+		background-image: url(../../images/icons.png);
+				
+		&.fb-share{
+			background-position: -255px 0px;
+		}
+		&.tt-share{
+			background-position: -295px 0px;
+		}
+		&.gp-share{
+			background-position: -335px 0px
+		}			
+	}
+}
