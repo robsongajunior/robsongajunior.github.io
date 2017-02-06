@@ -9,7 +9,7 @@
     "theme": "harmonic-theme-robsonjunior",
     "preprocessor": "less",
     "posts_permalink" : ":language/:year/:month/:title",
-    "pages_permalink": "pages/:title",
+    "pages_permalink": ":language/pages/:title",
     "header_tokens": [
         "<!--",
         "-->"
