@@ -51,28 +51,18 @@
 
 
         <section class="wrap-content content-job">
-            <article class="content-right">
+            <article class="content-left">
                 <h2>#sobre</h2>
                 
                 <p>
                     <a href="https://www.linkedin.com/in/robsongajunior" target="_blank">Robson Gomes de Araújo Júnior</a>.
-                    Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="http://www.senacrs.com.br/" target="_blank" title="Faculdade de Tecnologia SenacRS">Faculdade de Tecnologia SenacRS</a>, <u><i>solteiro</i></u>,
+                    Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <a href="http://www.senacrs.com.br/" target="_blank" title="Faculdade de Tecnologia SenacRS">Faculdade de Tecnologia SenacRS</a>,
                     membro da Organização <a href="https://github.com/JSRocksHQ" target="_blank" title="JSRocks"><strong>JSRocks</strong></a>, <i>Analista e Desenvolvedor Web</i> do <a href="https://www.terra.com.br/" target="_blank" title="Terra Networks"><u>Terra Networks S/A</u></a>.
                     Possui <strong>24</strong> anos de idade, atua na área há <strong>4 anos</strong> e atualmente reside na imensidão da Weblândia / <strong>Cidade Baixa - Porto Alegre</strong>.
                 </p>
             </article>
 
-
-            <article class="content-left">
-                <h2>#objetivo</h2>
-
-                <p>
-                    Seguir na jornada de migração que vem acontecendo, do <i><u>FrontEnd</u></i> para o <strong>BackEnd</strong>.
-                    Em alguns anos deseja ter conhecimento suficiente para poder defender a empresa
-                    junto com o time de <strong>SI</strong>.
-                </p>
-            </article>
-
+            
 
             <article class="content-right">
                 <h2>#skills</h2>
@@ -84,7 +74,7 @@
                     </div>
                     
                     <div id="sk-css">
-                        <span class="skill-bar skill-bar-60">CSS/<i>pre-processadores</i></span>
+                        <span class="skill-bar skill-bar-60">CSS/<i>pré-processadores</i></span>
                         <div class="clearfix"></div>
                     </div>
                     
@@ -94,17 +84,17 @@
                     </div>
                     
                     <div id="sk-py">
-                        <span class="skill-bar skill-bar-20">Python</span>
+                        <span class="skill-bar skill-bar-30">Python</span>
                         <div class="clearfix"></div>
                     </div>
                     
                     <div id="sk-bh">
-                        <span class="skill-bar skill-bar-10">Bash</span>
+                        <span class="skill-bar skill-bar-20">bh/sh</span>
                         <div class="clearfix"></div>
                     </div>
                     
                     <div id="sk-linux">
-                        <span class="skill-bar skill-bar-100">Linux / <i>usário dia a dia (OS Default)</i></span>
+                        <span class="skill-bar skill-bar-100">Linux / <i>usuário dia a dia (OS Default)</i></span>
                         <div class="clearfix"></div>
                     </div>
                 </div>
@@ -122,37 +112,52 @@
                 <p>
                     <b>início:</b> 19.02.2014 - <b>cargo:</b> programador
                     <br>
-                    <b>início:</b> 01.10.2015 - <b>cargo:</b> analista desenvolvedor web
+                    <b>início:</b> 01.10.2015 - <b>cargo:</b> analista e desenvolvedor web
                 </p>
-        
+
+                <p>
+                    No decorrer desses 3 anos, passei pelos times: <strong>SVA</strong>, <strong>Portal</strong> e <u>atualmente</u> pertenço ao time de <strong>E-mail</strong>.
+                    Mas antes disso tudo minha primeira tarefa foi descobrir como acontecia um <a href="https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)" target="_blank" title="XSS - Cross site scripting">XSS</a><u><i>(reflected)</i></u> no <i>antigo</i> Chat do Terra,
+                    isso me aguçou o interesse pelo lado de <i>segurança</i> e onde pude aprender alguns poucos conceitos, logo após pude fazer uma correção em uma
+                    aplicação PHP para se proteger da <u>vulnerabilidade</u> conhecida como <a href="https://www.owasp.org/index.php/Path_Traversal" title="path transversal" target="_blank">Path Transversal</a>.
+                </p>
+
                 <ul class="project-list">
                     <li class="project-item">
-                        <b>Ozone Funcional Tests</b>: Escrito em Python e usando Selenium Webdriver + Unittest, conseguimos ter ganhos de 30% menos problemas a cada deploy,
-                        integrado ao deploy automatizado conseguimos ter o controle do que está e não está funcionando corretamente antes de ir para produção.
-                        Arquiteura modularizada trabalhando com um remote Selenium Server. Para facilitar a vida dos frontenders, integrei ao grunt uma task
-                        que dispara os testes remotamente.
+                        <b>OzoneWebmail Funcional Tests</b>: Escrito em Python e usando Selenium Webdriver + Unittest, usamos um servidor para poder ser acessível remotamente
+                        de outros ambientes, como desenvolvimento, preview e homologação. Integrado ao Jenkins, os testes são rodados antes de ir
+                        para produção. Como ambientes de preview as máquinas são Centos(py2.6) e desenvolvimento Ubuntu(py2.7/3). Foi criado um pequeno script bash
+                        para gerenciamento da execução dos testes funcionais.
+                    </li>
+
+                    <li class="project-item">
+                        <b>delivery-mod-ozone Arquitetura OzoneWebmailTemplates</b>: Trabalhamos com os arquivos frontends separados do 
+                        backend, foi necessário criar um módulo para buscar templates de lugares diferentes, não ficando mais atrelado ao
+                        serviço de entrega. Com isso pudemos juntar os templates de backend junto com os sources de frontend. O benefício
+                        vem que antes era necessário fazer dois deployes, um para cada projeto, sempre tendo problemas de um tempo pequeno de quebra.
+                        Esse módulo permite ter tudo em um único commit.
                     </li>
                     
                     <li class="project-item">
-                        <a href="https://correo.terra.com.ar" target="_blank" title="Terra Mail">Ozone Webmail Latam</a>: Nova interface para o webmail do Terra,
-                        mais moderna com novas tecnologias FrontEnd, mudança na API de consumo voltada para performance, pudemos também separar a parte de renderização
-                        do backend além de trazermos o produto para o conceito Single Page Application,
-                        amenizando cargas no backend. Produto já em produção para Argentina, Colombia, Chile, Peru, Venezuela, EUA, México.
+                        <a href="https://correo.terra.com.ar" target="_blank" title="Terra Mail">Ozone Webmail</a>: Nova interface para o Email do Terra,
+                        com o conceito single page application, precisamos desenvolver uma robusta api de comunicação com o servidor de email. Nunjuncks para renderização
+                        e componentização, zaz-framework(framework frontender próprio) que nos permite escrever JavaScript puro e ele resolve os problemas de implementação.
+                        Produto está em produção para Argentina, Colombia, Chile, Peru, Venezuela, EUA, México. Agora estamos trabalhando para fazer a virada no Brasil.
                     </li>
                     
                     <li class="project-item">
-                        <a href="chat.terra.com.br" target="_blank" title="">Terra Chat</a>: Novo chat do Terra matando tecnologias como Servidor Ejabberd, protocolo XMPP e Erlang,
-                        trazendo para novas tecnologias como Firebase e alguns fluxos em Python, tambpem tivemos uma redução significativa de custo para empresa e ganhos na autonomia
-                        do desenvolvimento separando FrontEnd do BackEnd.
+                        <a href="chat.terra.com.br" target="_blank" title="">Terra Chat</a>: Substituimos tecnologias Ejabberd, XMPP e Erlang,
+                        migrando para Firebase e fluxos próprios escrito em Python.
                     </li>
                     
                     <li class="project-item">
                         <a href="https://servicos.terra.com.br/" target="_blank" title="Serviços Terra">Terra Serviços</a>: Reformulação do visual da vitrine virtual do Terra.
+                        No meio do processo desenvolvemos widgets para podermos integrar em qualquer lugar do Terra, basicamente os widgets são módulos/apps JavaScript consumindo serviços.
                     </li>
                 
                     <li class="project-item">
                         <a href="https://esportes.terra.com.br/sao-paulo/as-moscas-audax-faz-4-a-2-no-sao-paulo-e-impoe-primeira-derrota-de-ceni,8a5f987b855102a56387021a872fee7aydsvg7u1.html" target="_blank" title="StickAd">StickAd</a>: Solução
-                        FontEnd voltado para aumento de visualização das publicidades, não podendo revelar o ganho mas um simples JavaScript teve ganhos significativos chegando a mais de 30% available.
+                        FontEnd voltado para aumento das visualizações das publicidades, não podendo revelar o ganho mas um simples JavaScript teve ganhos significativos chegando a mais de <strong>30%</strong> <u>available</u>.
                     </li>
                 </ul>
 
@@ -166,6 +171,10 @@
                 
                 <p>
                     <b>início:</b> 01.10.2013 - <b>fim:</b> 12.02.2014 - <b>cargo:</b> frontend developer
+
+                    <ul class="project-list">
+                        <li class="project-item"> Codificação de interface</li>
+                    </ul>
                 </p>
 
 
@@ -180,6 +189,9 @@
                     <b>início:</b> 13.01.2013 - <b>fim:</b> 28.09.2013 - <b>cargo:</b> frontend developer / <i>free-lancer</i>
                 </p>
 
+                <ul class="project-list">
+                    <li class="project-item"> Codificação de interface</li>
+                </ul>
 
                 <hr>
 
@@ -191,10 +203,15 @@
                 <p>
                     <b>início:</b> 01.08.2012 - <b>fim:</b> 12.01.2013 - <b>cargo:</b> frontend developer
                 </p>
+
+                <ul class="project-list">
+                    <li class="project-item"> Codificação de interface</li>
+                </ul>
+
             </article>
 
             <article class="content-contact-list">
-                <a href="https://www.linkedin.com/in/robsongajunior" target="_blank" title="LinkedIN - robsongajunior">LinkedIN</a> /
+                <a href="https://www.linkedin.com/in/robsongajunior" target="_blank" title="LinkedIN - robsongajunior">LinkedIn</a> /
                 <a href="https://github.com/robsongajunior/" target="_blank" title="GitHub - robsongajunior">GitHub</a> /
                 <a href="https://speakerdeck.com/robsongajunior/" target="_blank" title="SpeakerDeck - robsongajunior">SpeakerDeck</a>
             </article>
