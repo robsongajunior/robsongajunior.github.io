@@ -129,8 +129,6 @@ onde eu iria definir desde onde e como irá rodar até a integração no process
 Comecei estudar Python, essa Integração é escrita em Python e uma rotina em NodeJS que usamos uma Task Grunt,
 mais na frente terá também um arquivinho bash para fazer toda rotina na configuração de ambiente.
 
-![Arquiteura Testes Funcionais](https://scontent.fpoa4-1.fna.fbcdn.net/v/t31.0-8/15493694_1152918808096347_7650502803827145676_o.jpg?oh=98bacbaf53a7e04b0c304e258cb3ee52&oe=58E4D419)
-
 Agora no final do ano,
 
 Acho que deu pra sentir um pouco da situação toda que me deparei esse ano no lado profissional.
@@ -182,7 +180,7 @@ ninguém do que voar de avião hahahahahaha, sim tenho um medinho até.
 Logo nos primeiros dias de workshop já encontrei gente de Porto Alegre, um trabalhava comigo no Terra, alguns trabalharam e outros
 brothers como sempre ratos de computadores.
 
-![Almoço com a galera](https://scontent.fpoa4-1.fna.fbcdn.net/v/t31.0-8/14707830_1091695087552053_360834566787144698_o.jpg?oh=93e189d02c4d54a65c5d94193ed5f52c&oe=59231332)
+![Almoço com a galera](/images/retrospectiva-2016/almoco-galera-poa.jpg)
 
 Foi uma experiência incrível, foram 5 dias que me fez voltar diferente, não só na gana de tecnologia mas também porque vi
 algumas coisas lá que realmente me marcou. Lá ouvi coisas como:
@@ -196,11 +194,11 @@ Nos últimos dias de workshop estava com uns amigos e conheci um cara que trabal
 cara fechamos uma brotheragem muito sensacional onde ele me ensinou tanta coisa em um unico dia que deu uma dor de cabeça
 até maior que algumas talks.
 
-![Credencial Python Brasil](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-0/s640x640/14671375_1092559047465657_2384693484306883337_n.jpg?oh=4f405c33764ada9425cd99d9b792d9ca&oe=58EC6C65)
+![Credencial Python Brasil](/images/retrospectiva-2016/credencial.jpg)
 
 Lá vi um dos slides com lição de moral que mais fez sentido até hoje!
 
-![Seja humilde](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-0/p480x480/14725626_1094597577261804_590756071388666537_n.jpg?oh=cc0142821e727f9e02d5b859e0c50649&oe=58F06EE3)
+![Seja humilde](/images/retrospectiva-2016/seja-humilde.jpg)
 
 Conversando sobre tecnologia entramos no assunto threads onde eu não tinha conhecimento até então...
 ... ele puxou o material que usou pra ensinar os professores da federal e começou me ensinar, se passou uns 40minutos
@@ -217,7 +215,7 @@ Issoooo, voce entendeu bem hahahahahahahaha
 
 Pensando no que criar um antigo Chefe meu me dá ideia de fazer uma corrida de lebres, lembrando o que aprendi na tarde sobre threads aquilo se encaixou perfeitamente.
 
-![Codificando a Corrida de Lebre](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-9/14705815_1093503514037877_6336572079709651368_n.jpg?oh=2e226fa7fa15d5943442a354f9e45cbc&oe=58E4E4BF)
+![Codificando a Corrida de Lebre](/images/retrospectiva-2016/coding.jpg)
 
 Fooi do final do evento até o outro dia de manhã quase meio dia, estudando codando para poder terminar e mostrar para galera alguma coisa. Não vou mentir,
 alguns momentos eu pensei desistir porque não tinha conhecimento e estava me frustando, mas não desisti. Comprei 5 cervejas, pedi 4 cafés para depois e entrei madrugada a fora.
@@ -241,12 +239,12 @@ e que queria fazer barulho o próximo e próximos anos com cada um deles, que co
 
 Belo Horizonte, aí vamos nós em 2017.
 
-![Volta de Santa Catarina que rolou a Python Brasil 12](https://scontent.fpoa4-1.fna.fbcdn.net/v/t31.0-8/14691954_1094878240567071_3125643199699078323_o.jpg?oh=96b846005864e3e5b0641813ea950938&oe=58D99DAF)
+![Volta de Santa Catarina que rolou a Python Brasil 12](/images/retrospectiva-2016/aviao.jpg)
 
 
 ## Roadsec
 
-![Credencial do Roadsec](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-9/14900443_1104891989565696_301751911365464013_n.jpg?oh=3ee3fe56ff88325b741e552c910fb689&oe=58DAFC79)
+![Credencial do Roadsec](/images/retrospectiva-2016/credencial-roadsec.jpg)
 
 Siiiiiiiiiiiiiiiiim, fui no meu primeiro evento de segurança também, sempre admirei muito hackers e sua mentalidade
 e o todo o poder que possuem.
@@ -320,7 +318,7 @@ e tive chance também de ajudar pessoas novas e isso foi foda.
 
 E até que treinei para algumas entregas de trabalho.
 
-![Trabalho Final - Palestra](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-9/15338726_1142540072467554_1295570305435486946_n.jpg?oh=cd55e8e1ff88aead6d4000ad89815d99&oe=58E340F3)
+![Trabalho Final - Palestra](/images/retrospectiva-2016/ensaio.jpg)
 
 
 ### Saindo um pouco da tecnologia
@@ -390,5 +388,5 @@ Para o próximo ano eu só tenho um único objetivo.
 
 _"Pode vir 2017, eu estou pronto parar ir mais alto ainda"_
 
-![Voando alto](https://scontent.fpoa4-1.fna.fbcdn.net/v/t1.0-9/15541350_1161019143952980_7458028752669435625_n.jpg?oh=97df774741c5d9aadd9d6b90577fd913&oe=58F17170)
+![Voando alto](/images/retrospectiva-2016/voando-alto.jpg)
 
