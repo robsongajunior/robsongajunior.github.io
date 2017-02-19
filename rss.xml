@@ -6,9 +6,19 @@
         <description>Aqui conto o que acontece na minha carreira, o que estudo e tudo que venho aprontando no mundo developer.</description>
         <managingEditor>@robsongajunior</managingEditor>
         <webMaster>@robsongajunior</webMaster>
-        <pubDate>Sun, 19 Feb 2017 21:37:48 GMT</pubDate>
+        <pubDate>Sun, 19 Feb 2017 23:45:12 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://robsongajunior.github.io//rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>1095 dias de Terra Networks</title>
+            <link>http://robsongajunior.github.io//2017/02/1095-dias-de-terra</link>
+            <description><![CDATA[<h1 id="1095-dias-de-aprendizados-ninja-no-terra-networks">1095 dias de aprendizados Ninja no Terra Networks</h1>
+<p>Hoje, dia 19 de fevereiro do ano 2017, estou completando 3 anos que estou aprendendo com ninjas e e defendendo a <a href="https://www.terra.com.br/">OrangeCorporation</a> </p>
+]]></description>
+            <pubDate>Sun, 19 Feb 2017 21:51:02 GMT</pubDate>
+            <guid>http://robsongajunior.github.io//2017/02/1095-dias-de-terra</guid>
+        </item>
         
         <item>
             <title>Retrospectiva 2016</title>
