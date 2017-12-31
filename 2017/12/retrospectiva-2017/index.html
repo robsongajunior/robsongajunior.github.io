@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8" />
+
+    <title>Retrospectiva 2017 - Robson Júnior</title>
+
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    <meta name="author" content="@robsongajunior">
+    <meta name="description" content="Aqui conto o que acontece na minha carreira, o que estudo e tudo que venho aprontando no mundo developer.">
+    <meta name="keywords" content="Robson Júnior, carreira, palestras, javascript, JS, ECMAScript, ES6, Harmonic, front-end">
+
+    
+    <meta property="og:description" content="Como de costumo dos meus últimos quaatro anos, quando chegamos nessa data final de ano, podemos aproveitar porque é quando paramos para fazer reflexões.">
+    <meta property="og:image" content="http://robsongajunior.github.io//images/share/profile-robsongajunior.jpg">
+    <meta property="og:site_name" content="robsonjunior">
+    <meta property="og:title" content="Robson Júnior - Retrospectiva 2017">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://robsongajunior.github.io/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="http://robsongajunior.github.io/">
+    <meta name="twitter:creator" content="@robsongajunior">
+    <meta name="twitter:title" content="Robson Júnior - Retrospectiva 2017">
+    <meta name="twitter:description" content="Como de costumo dos meus últimos quaatro anos, quando chegamos nessa data final de ano, podemos aproveitar porque é quando paramos para fazer reflexões.">
+    <meta name="twitter:image" content="http://robsongajunior.github.io//images/profile-robsongajunior.jpg">
+
+    
+    <link rel="canonical" href="http://robsongajunior.github.io/" />
+
+    
+    <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/vendor/prism.css" />
+</head>
+<body id="single">
+
+    <header id="header"> <nav class="social wrap-content">
+    <h1 id="logo">
+        <a href="/" title="Robson Júnior"> Robson Júnior </a>
+    </h1>
+
+    <ul class="social__list">
+        <li class="social__item">
+            <a class="social__link" href="https://twitter.com/robsongajunior">
+                <svg version="1.1" width="32" height="32" viewBox="0 0 32 32">
+    <path d="M32 6.076c-1.177 0.522-2.443 0.875-3.771 1.034 1.355-0.813 2.396-2.099 2.887-3.632-1.269 0.752-2.674 1.299-4.169 1.593-1.198-1.276-2.904-2.073-4.792-2.073-3.626 0-6.565 2.939-6.565 6.565 0 0.515 0.058 1.016 0.17 1.496-5.456-0.274-10.294-2.888-13.532-6.86-0.565 0.97-0.889 2.097-0.889 3.301 0 2.278 1.159 4.287 2.921 5.465-1.076-0.034-2.088-0.329-2.974-0.821-0.001 0.027-0.001 0.055-0.001 0.083 0 3.181 2.263 5.834 5.266 6.437-0.551 0.15-1.131 0.23-1.73 0.23-0.423 0-0.834-0.041-1.235-0.118 0.835 2.608 3.26 4.506 6.133 4.559-2.247 1.761-5.078 2.81-8.154 2.81-0.53 0-1.052-0.031-1.566-0.092 2.905 1.863 6.356 2.95 10.064 2.95 12.076 0 18.679-10.004 18.679-18.68 0-0.285-0.006-0.568-0.019-0.849 1.283-0.926 2.396-2.082 3.276-3.398z" fill="#fff" />
+</svg>
+            </a>
+        </li>
+        <li class="social__item">
+            <a class="social__link" href="https://github.com/robsongajunior">
+                <svg version="1.1" width="32" height="32" viewBox="0 0 32 32">
+    <path d="M0 17.388c0 1.45 0.136 2.762 0.407 3.935 0.271 1.174 0.647 2.193 1.127 3.059 0.48 0.866 1.090 1.627 1.831 2.285 0.741 0.657 1.544 1.195 2.41 1.612 0.866 0.417 1.854 0.756 2.965 1.017 1.111 0.261 2.245 0.443 3.403 0.548 1.158 0.104 2.431 0.156 3.818 0.156 1.398 0 2.676-0.052 3.834-0.156 1.158-0.104 2.295-0.287 3.411-0.548 1.116-0.261 2.11-0.6 2.981-1.017 0.871-0.417 1.68-0.954 2.425-1.612 0.746-0.657 1.361-1.419 1.846-2.285 0.485-0.866 0.863-1.886 1.134-3.059 0.271-1.174 0.407-2.486 0.407-3.935 0-2.587-0.866-4.825-2.597-6.713 0.094-0.25 0.18-0.535 0.258-0.853 0.078-0.318 0.151-0.772 0.219-1.361 0.068-0.589 0.042-1.27-0.078-2.042-0.12-0.772-0.342-1.56-0.665-2.363l-0.235-0.047c-0.167-0.031-0.441-0.023-0.822 0.024s-0.824 0.141-1.33 0.282c-0.506 0.141-1.158 0.412-1.956 0.814-0.798 0.402-1.64 0.905-2.527 1.51-1.523-0.417-3.615-0.626-6.275-0.626-2.65 0-4.736 0.209-6.259 0.626-0.887-0.605-1.734-1.108-2.543-1.51-0.808-0.402-1.453-0.673-1.933-0.814-0.48-0.141-0.928-0.232-1.346-0.274-0.417-0.042-0.681-0.055-0.79-0.039-0.11 0.016-0.196 0.034-0.258 0.055-0.323 0.803-0.545 1.591-0.665 2.363-0.12 0.772-0.146 1.453-0.078 2.042 0.068 0.589 0.141 1.043 0.219 1.361 0.078 0.318 0.164 0.602 0.258 0.853-1.732 1.888-2.598 4.126-2.598 6.713zM3.928 21.315c0-1.502 0.683-2.879 2.050-4.131 0.407-0.376 0.881-0.66 1.424-0.853 0.542-0.193 1.155-0.302 1.839-0.329 0.683-0.026 1.338-0.021 1.964 0.016 0.626 0.037 1.398 0.086 2.316 0.149 0.918 0.063 1.711 0.094 2.379 0.094 0.668 0 1.46-0.031 2.378-0.094 0.918-0.063 1.69-0.112 2.316-0.149 0.626-0.037 1.28-0.042 1.964-0.016 0.683 0.026 1.296 0.136 1.839 0.329 0.542 0.193 1.017 0.477 1.424 0.853 1.367 1.231 2.050 2.608 2.050 4.131 0 0.897-0.112 1.693-0.337 2.386-0.224 0.694-0.511 1.275-0.861 1.745-0.349 0.469-0.834 0.868-1.455 1.197-0.621 0.329-1.226 0.582-1.815 0.759-0.589 0.177-1.346 0.316-2.269 0.415-0.923 0.099-1.747 0.159-2.472 0.18-0.725 0.021-1.646 0.031-2.762 0.031-1.116 0-2.037-0.010-2.762-0.031-0.725-0.021-1.549-0.081-2.472-0.18-0.923-0.099-1.68-0.237-2.269-0.415-0.589-0.177-1.194-0.43-1.815-0.759-0.621-0.329-1.106-0.728-1.455-1.197-0.349-0.469-0.636-1.051-0.861-1.745-0.224-0.694-0.336-1.489-0.336-2.386zM20 21c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3zM8 21c0-1.657 0.895-3 2-3s2 1.343 2 3c0 1.657-0.895 3-2 3-1.105 0-2-1.343-2-3z" fill="#fff" />
+</svg>
+            </a>
+        </li>
+    </ul>
+</nav> </header>
+
+
+
+    <figure id="mainBanner" class="main-banner internal-banner" data-banner-src="/images/retrospectiva-2017/cover.jpg" data-banner-alt="{post.metadata.coverAlt}}">
+        <figcaption> <h2 id="titleBlur" class="title">Retrospectiva 2017</h2> </figcaption>
+    </figure>
+
+    <main id="main">
+        <section class="single-page wrap-content">
+            <article class="postContent"><p>Como de costume, nos meus últimos 4 anos quando chegamos nessa data final de ano, aproveito que praticamente paramos para fazer reflexões, olhaar para trás e decidir o que e como será o próximo ano.</p>
+<p>Eu gosto de fazer uma retrospectiva porque não me deixa esquecer <strong>quem eu era, no que me tornei e quem eu serei</strong> me dando mais clareza mental para esquematiar da melhor forma que executerei e colocaquei minhas metas para DONE uma por uma.</p>
+<p>Não irei mentir, dizendo que foi um ano simples...</p>
+<p>... foi um ano e tanto mas não fácil, porém, muito desafiador.</p>
+<p>Poderia falar ou chamar de um ano problemático mas como cada um vê o mundo com o que se tem de melhor dentro de sí, eu digo que foi um ano cheio de oportunidades.</p>
+<h2 id="auto-conhecimento">AUTO CONHECIMENTO</h2>
+<p><img src="/images/retrospectiva-2017/meditacao.jpg" alt="auto conhecimento, meditação"></p>
+<p>Desde que comecei trabalhar com tecnologia, foi o ano que menos estudei tecnologia, foquei muito em conhecimento pessoal...</p>
+<p>... contratei os serviços de uma escola de meditação logo no início do ano e mal fazia idéia de que aquilo mudaria completamente o rumo das coisas.</p>
+<p>É incrível que quando o auto conhecimento vem, algumas coisas que faziam sentido até então, param de fazer e com isso comecei mudar meu círculo de amizades, pessoas com quem me relaciono entre várias outras mudanças, com isso, meu poder de decição evoluiu muito rápido, aprendi que tudo que acontecer na minha vida é apenas responsabilidade minha devido a ações e escolhas que tomei.</p>
+<p>Vou dar alguns exemplos.</p>
+<ul>
+<li>Perdi todo meu dinheiro!!<ul>
+<li>Não, minhas atitudes fizeram eu chegar nesse ponto.</li>
+</ul>
+</li>
+<li>Perdi tal campeonato!!<ul>
+<li>Não, a minha falta de preparação fez eu perder o campeonato.</li>
+</ul>
+</li>
+<li>Tal coisa não saiu como eu queria!!<ul>
+<li>O formato que eu joguei o jogo fez que essa tal coisa que tanto desejo não desse certo.</li>
+</ul>
+</li>
+</ul>
+<p>Quando finalmente olhamos para a cara da incompetencia é normal nos assustarmos mas cada um descide como lidar com isso afinal todos temos muitos problemas, a diferença que quando alguém hoje vê um problema eu aprendi ver a oportunidade e isso automaticamente te melhora em todas as áreas, financeiro, relacionamento, profissional, mente, corpo e assim por diante.</p>
+<p>Voce deixa de ser menino e vira homem com a diferença é que tem meninos que viram homem cedo e homems que parece ser eternamente meninos, mas, voce escolhe qual jogo jogar.</p>
+<p>Aprendi também que sucesso é apenas uma decisão, sim entendo que todos querem o tal sucesso mas nem todos estão preparados para realmente ter e vou dar outros exemplos:</p>
+<ul>
+<li>O jogo de primeira divisão não admite críticas...<ul>
+<li>... aaah não fiz porque fulano fez tal coisa</li>
+</ul>
+</li>
+<li>O jogo de primeira divisão não admite culpados.<ul>
+<li>é trocada essa palavra por responsáveis</li>
+</ul>
+</li>
+<li>O jogo de primeira divisão não admite que voce<ul>
+<li>suba jogando como segunda divisão, ele exige que voce jogo como top player</li>
+</ul>
+</li>
+</ul>
+<p>O que queria dizer com isso?</p>
+<p>Que temos a vida que merecemos, aprendi que não tem como jogar o jogo top player sem mudar todas as atitudes que usei a cima como exemplo e entre várias outras, isso me deu o controle total das minhas ações em um formato muito claro.</p>
+<h2 id="esporte-e-entertenimento">ESPORTE E ENTERTENIMENTO</h2>
+<h3 id="futsal">Futsal</h3>
+<p>Esse ano voltei jogar futsal depois de 9 anos longe das quadras, isso foi no início do ano mas logo parei, eu queria poder me dedicar e ser bom, coisas apenas por diversão sem propósito me deixa insatisfeito.
+O perfil das pessoas com quem eu jogava só queriam beber, fumar e falar mal de suas esposas quando casados e isso me deixava bastante chateado e não fazia sentido.</p>
+<p>O que aconteceu?</p>
+<p>Larguei essas pessoas de mão porque eu queria outro tipo de relação.</p>
+<h3 id="poker">Poker</h3>
+<p><img src="/images/retrospectiva-2017/poker.jpg" alt="robsongaunior jogando poker"></p>
+<p>Logo comecei jogar poker, onde novamente por começar estudar bastante os amigos com quem eu jogava queriam apenas diversão e com isso comecei ser boicotado por ganhar toda semana (e eu não era e nem sei jogar poker para falar a verdade oO).</p>
+<h3 id="bmx">Bmx</h3>
+<p>Comprei uma BMX, e como para fazer manobras, ela sim só depende da sua dedicação e isso me encantou porque onde eu poderia chegar dependeria do quanto eu treinasse, passou dois meses e estava dando um rolê legal para o tempo que andava, já estava subindo caixotes, corrimão e dando 180 além de aprender andar no Park Marinha aqui em Porto Alegre.</p>
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/RMkwhKYjOfQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</p>
+
+
+<h2 id="eventos-palestras-campeonatos">EVENTOS - PALESTRAS - CAMPEONATOS</h2>
+<p>Como o auto-conhecimento veio eu comecei entender mais sobre coisas que eu gostava e outras que não tanto mas que eu ainda fazia e não sabia realmente o motivo.</p>
+<p>Um ano anterior eu dei palestras em vários eventos de tenologias aqui em Porto Alegre e no interior do Estado como:</p>
+<ul>
+<li>SenacRS</li>
+<li>FrontInPOA</li>
+<li>FrontInSM</li>
+<li>TDC</li>
+<li>GuMobile</li>
+<li>EATI</li>
+<li>PythonBrasil em FLoripa no CentroSul (lightning talk)</li>
+<li>TcheLinux</li>
+</ul>
+<p>Era legal estar em um palco, aquela galera me olhando e podendo soltar o verbo falando sobre tudo que eu gosto de estudar, porém, as coisas começaram tomar um rumo onde comecei ficar insatisfeito, começou não ser tanto por gosto ou por talento e sim para se aparecer ou para estar em um palco e isso me fez ir pro lado competitivo, onde se mede a habilidade de forma justa e com critérios claros de merecimento, e não porque voce trabalha em uma empresa foda ou porque é o cool do momento.</p>
+<p>Depois de partipar do primeiro campeonato em 2016 onde fui praticamente humilhado por um professor onde me esmagou com sua pontuação extrema, vi que precisava crescer muito e estudar urgente em um formato insano caso quisésse ter chance de ganhar algo.</p>
+<p>Estudei, me inscrevi em capeonatos como <strong>#HackerHank</strong> e também comecei estudar linguagens como <strong>#Python</strong> e <strong>#NodeJS</strong> de forma mais árdua, continuei perdendo.</p>
+<p>A última derrota que lembro, chorei muito tipo desespero, foi um campeonato a nível internacional com <strong>7k programadores de todo mundo</strong> onde eu fiquei em <strong>4xx e alguma coisa</strong>, mas a diferença era que <strong>levei 10h para escrever um algorítimo</strong> e o primeiro colocado levou apenas <strong>49 segundos</strong> e <em>isso me abalou</em>, foi quando comecei procurar controle emocional através da meditação.</p>
+<p>Fiquei 1 mês sem falar sobre ou contar para quem sabia que eu competi, não queria falar sobre o que realmente aconteceu.</p>
+<p>Voltei e agora no final do ano em novembro e competi em um campeonato menor que uma empresa de São Paulo realizou e que está operando dentro do Google, ela fez para recrutar profissionais...</p>
+<p>... tinha 50 competidores, mas no final tinha apenas 47. Nesse eu tive a <strong>alegria de cravar 46 brasileiros ficando em 1 lugar</strong>, isso me devolveu a gana pela competição mas devido a controle emocional já tinha aprendido a <strong>considerar a vitória e a derrota no mesmo formato</strong> não me achando nem bom e nem ruim mas apenas melhor preparado naquele momento. Nem sempre ainda lido desse jeito, confesso que estou trabalhando nisso e que sei que não é da noite pro dia mas sim sim com várias derrotas e vitórias.</p>
+<h3 id="facebook-developers-cicle">Facebook Developers Cicle</h3>
+<p>Uma oportunidade incrível e atípica que rolou foi ter contato direto com uma advocate do Facebook que veio ver como é a cena local de tecnologia para que o Facebook pudesse nos dar apoio total com um novo formato de comunidade.</p>
+<p>Nessa noite, tive a experiência do que é conversar apenas 100% em inglês e foi um desfio bem interessante.</p>
+<p>Apesar de ter que saber inglês para poder estudar programação e ter acesso a conteúdos exclusivos, conversar olho a olho é muito diferente.</p>
+<p>Nesta noite, rendeu tanto a conversa que fomos apenas jantar e quando vimos já tinha se passado 6h, era 3h da manhã e estávamos lá trocando idéias, experiência de forma incrível.</p>
+<p><img src="/images/retrospectiva-2017/fb-circle.png" alt="facebook developers cicle"></p>
+<h3 id="nasctrip-para-criciumadev">NascTrip para CriciumaDev</h3>
+<p>Uma loucura que aconteceu foi ter a opotunidade de fazer uma <strong>#NascTrip</strong> onde fui convidado pela empresa a viajar com eles e seus desenvolvedores para Criciúma no <strong>#CriciumaDev</strong> onde fiz um networking muito bom e pude ver um pouco da força que é a comunidade de lá e que está crescendo cada vez mais, fazendo uma bela cena na tecnologia.</p>
+<p>A ambição deles é criar um pólo tenológico, ver essa ousadia me dá cada vez mais tesão de estar perto de quem faz acontecer as coisas e ajudar sempre que necessário com o que for preciso.</p>
+<p><img src="/images/retrospectiva-2017/criciuma-dev.png" alt="criciuma-dev"></p>
+<h3 id="braziljs">BrazilJS</h3>
+<p>O maior evento de #JavaScript do mundo é aqui, em Porto Alegre. </p>
+<p>Foi uma honra ter trabalhado no #Terra com os dois criadores do evento além de eu os considerar grandes amigos,  aprendi muito e tanto me ajudaram na minha jornada, tanto que quando o Jaydson foi pra Argentina, nem pensei duas vezes para ir prestigiar seu trabalho.</p>
+<p>Esse ano pela primeira vez, não fui ao evento como participante, ou seja, ir ver as palestras e curtir o evento. Sim, eu curti demais mas dessa vez foi como <strong>#staff</strong>, foi uma honra e um orgulho gigante ter tido essa oportunidade onde tentei exercer minhas tarefas da melhor forma e com a maior dedicação que eu pude dar.</p>
+<p>Tive uma aula do que é ser humano com o <strong>Erick Krominski</strong> onde tive vários insights e perspectivas que até então não fazia idéia. Foi um evento muito diferenciado e com aprendizados que irá ficar armazenado aqui no meu HD humano para sempre.</p>
+<p><img src="/images/retrospectiva-2017/brjs.png" alt="BrazilJS"></p>
+<p>Foram tantos eventos que fui neste ano desde hackathons a competições que se eu escrever sobre todos acredito que esse texto ficará quase um salmos bíblico :p</p>
+<h3 id="highstakes-on-the-road">highstakes on the road</h3>
+<p>Poooorra man, esse evento foi louco...</p>
+<p>... tive oportunidade de conhecer pessoalmente quem hoje é um dos meus principais mestres, quem me trás conhecimentos milenares para os 5 pilares da vida e que depois que voce experimenta entende como é performar na melhor performance possível a sua arte.</p>
+<p>Um resumo é um cara que viajou o mundo e investiu milhões em conhecimento, quando viu a gigante vantagem competitiva que isso dá perante os demais começou externalizar formando a sua comunidade onde tenho maior orgulho de fazer parte.</p>
+<p>No início pessoas normais dizem que os resultados são sorte, depois quando vira hábito todos acreditam que voce tinham potencial (psss ata né).</p>
+<p>Esse evento foi em uma vibe diferenciada de todos outros, lá ninguém estava para julgar e sim para melhorar/compartilhar, eu era um dos poucos que não era empreendedores, tinha empresários de tudo que é nível, desde iniciante até milionários e todos conectados pelo mesmo objetivo, descobrir a razão e ir para o próximo nível de execução e de propósito.</p>
+<p>A energia que foi trocada nessas conexões foi uma das melhores coisas que aconteceu esse ano, tanto que logo após oficialmente me tornei aluno desse maluco que já foi o melhor jogador de poker do mundo jogando os jogos mais caros do mundo. Respect.</p>
+<p><img src="/images/retrospectiva-2017/goffi.jpg" alt="robsongajunior com mesre Gabriel Goffi"></p>
+<h3 id="palestras">Palestras</h3>
+<p>Mas... como um bom <strong>#JenkieEvent</strong> esse ano dei duas palestras, uma em <strong>Santa Cruz no #TcheLinux</strong> que foi bem legal, na verdade, lá dei duas palestras...</p>
+<p>.... uma falei sobre o poder do <strong>#JavaScript</strong> onde eu mostrei os seguintes pontos:</p>
+<ul>
+<li>que é possível criar games e sim rodam no browser apenas com JavaScript</li>
+<li>realidade aumentada usando TrackingJS do grande e mestre frontend Zeno Rocha</li>
+<li>banco de dados com MongoDB</li>
+<li>técnicas hacks em um ambiente controlado (XSS Reflected e XSS Stored)</li>
+</ul>
+<p>É tão legal ver a reação das pessoas as vezes, até mesmo de um programador mais inocente que ainda não tem noção do poder que se ganha quando se aprende a programar e entender melhor sobre computadores.</p>
+<p><img src="/images/retrospectiva-2017/TCHELINUXSANTACRUZ.jpg" alt="TcheLinux Santa Cruz"></p>
+<p>Agora em dezembro no último evento de tecnologia de Porto Alegre, o famoso <strong>#FrontInPOA</strong>, pude dar uma lightning talk, como microfone tava na minha mão então era hora do show, show porque não era para eu falar lá, evento teve problemas com palestrantes e aí foi no free.</p>
+<p>Tive uma alegria em poder falar pela primeira vez sobre temas não técnicos mas sim sobre:</p>
+<ul>
+<li><strong>respeito:</strong> onde abordei sobre nós não termos idéia do que a outra pessoa vive ou joga e que devemos respeitar isso.</li>
+<li><strong>responsabilidade:</strong> sobre perder o hábito de culpar o chefe, governo ou qualquer outra coisa apontando para os outros dizendo melhorem e não olhar para dentro, para mudar o mundo externo devemos primeiro mudar o interno e nisso entra o respeito, não devemos querer mudar o outro e sim ele deve querer mudar a sí mesmo, quando não é bom para nós, simplesmente se afastar porque o mundo tem espaço para todos.</li>
+<li><strong>dinheiro:</strong> mostrei a linha de evolução das pessoas que fazem o que gostam ou que pelo menos tem um propósito, não tem problema trabalhar por dinheiro apenas mas desde que não fique reclamando como seu trabalho é ruim etc, afinal se é só por dinheiro e não um tempo limitado que irá usar para sua evolução ninguém tem culpa por isso.</li>
+<li><strong>sucesso:</strong> falei uma coisa que aprendi com o Cortella no livro Por que fazemos o que fazemos? Lá explica que há três caminhos para o <strong>fracasso</strong>: <em>não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora</em>.</li>
+</ul>
+<p>Foram poucos minutos mas que eu estava totalmente presente e acredito que consegui passar a mensagem que eu queria. Claro, se deixar o microfone na minha mão eu não iria parar de falar, foi irado.</p>
+<p><img src="/images/retrospectiva-2017/frontinpoa.png" alt="palestra robsongajunior frontinpoa"></p>
+<h3 id="profissional-e-terra-networks-s-a">PROFISSIONAL E TERRA NETWORKS S/A</h3>
+<p>Não posso negar que oportunidades vem com algumas dificuldades, iniciando por onde trabalho foi um ano onde tivemos várias baixas, mídia contando mentiras sobre nós e infelizes piadas sobre tal, veio assuntos como:</p>
+<ul>
+<li>Por que voce ainda está no Terra? É uma empresinha sem futuro.</li>
+<li>O Terra faliu.</li>
+<li>O Terra só tem diretoria tosca por isso está como está.</li>
+</ul>
+<p>Além de piadas entre amigos e familiares mas não entendo o motivo que se interessam tanto pelo tema, afinal não era nenhum deles que estavam lá, e até mesmo os que estavam como falei, estavam.</p>
+<p>Irei responder um pouco essas perguntas dentro do limite que posso:</p>
+<p>Estou no Terra porque eu amo essa empresa, ela me tornou internacional aos 22 anos e aos 24 pude apresentar para outros países sobre um projeto que fiz para o produto que sou responsável onde evitaria testes manuais.</p>
+<p>Tive a maior alegria de apresentar para a mais alta diretoria da empresa onde recebi vários feedbacks positivos sendo um deles  de um Mexicano que estava de despedida e que me emocionou bastante.</p>
+<p>Estou lá porque amo tanto a empresa que eu tinha duas férias para tirar, se não fosse o obrigado por lei, eu não tiraria.</p>
+<p>Estou lá porque é onde tem gigantes profissionais, que olho os bastidores e são exemplo de disciplina e de resultado, além, de sempre quererem elevar a sua média.</p>
+<p>Aprendi a importancia de uma boa comunicação com o meu gestor e um outro grande mestre que eu me espelho muito e que nos trouxe vários reconhecimentos.</p>
+<p>Aprendi a tamanha importancia de uma execução com enorme maestria, tendo múltiplas perspectivas novas a cada dia, seja na hora de trabalho, almoço ou até em nossos churrascos.</p>
+<p>Um ponto que considero forte demais é que é muito fácil falar mal, mas poucos tem skill e maestria para pegar algo gigante andando e conseguir arrumar e digo de passagem que fizemos isso muito bem.</p>
+<p>Como prova disso, <strong>tivemos reconhecimento a nível mundial nos maiores eventos da maior empresa de tecnologia do MUNDO, sim nada mais nada menos que o Google</strong>.</p>
+<p>Lá fomos citados pelo execlente trabalho e aposta em <strong>PWA</strong>, <strong>AMP</strong> e também fomos usados nosso case em seus workshops sobre tal tema.</p>
+<p>Isso foi possível possível porque temos um visionário no nosso time e ele sabe conduzir seu time de forma muito exemplar e trabalhando junto com ele. </p>
+<p><img src="/images/retrospectiva-2017/google-terra.jpg" alt="Reconhecimento Google para sobre Terra Networks S/A"></p>
+<p>Não citarei nomes, lá na empresa a galera preza muito pela privacidade, mas de spoiler posso dizer que muitos de nós o considera o dono do Portal.</p>
+<p>Então, o ano começou difícil e terminou de forma onde poucos sabem fazer, onde poucos tem estrutura psicológica, mental e técnica para fazer e isso me dá cada vez mais tesão de executar em um extreme format todas as minhas obrigações e continuar aprendendo com esses profissionais fodas pra caralho.</p>
+<p>Voltando um pouco, a tive oportunidade pela primeira vez de falar na época para os outros países que o Terra estava presente, me deu uma visibilidade maior e junto com isso tive que crescer a qualidade e consistência do meu trabalho...</p>
+<p>... poderia ficar pensando: </p>
+<ul>
+<li>poxa vou ter que trabalhar mais, mas não.<ul>
+<li>eu gosto disso, gosto de desafio principalmente se disser que não tem como fazer, irei trabalhar até eu aprender como fazer e irei fazer, não é a toa que estou lá há alguns anos.</li>
+</ul>
+</li>
+</ul>
+<p>Durante vários anos da empresa mantivemos 3 plataformas para o sistema de troca de mensagens, em breve posso dizer que o produto em que sou um dos devs responsáveis irá ser a única utilizada matando todas as outras, isso me deu um tesão insano para continuar trabalhando em um formato #highstakes onde eu apostei até as fichas que eu não tinha em mãos podendo avacalhar meu nome, minha moral e principalmente minha creadibilidade com a empresa mas posso dizer que tenho noção que tive sucesso na execução.</p>
+<h2 id="sa-de">SAÚDE</h2>
+<p>Agora em dezembro, finalmente depois de 10 anos voltei para academia, no inicio do ano eu pesava 98kg, agora estou com 80 praticamente ao meu peso normal que eu tinha antes de me atirar na vagabundagem usando como desculpa que era porque eu não tinha tempo porque trabalho de dia e estudo de noite...</p>
+<p>...mas como falei, era apenas desculpa da minha própria vagabundagem.</p>
+<p>Mudei não drasticamente a alimentação mas consideravelmente e isso me ajudou desempenhar meu trabalho de forma muito mais leve e clara ajudando aumentar minhas habilidades intelectuais e de concentração.</p>
+<p>Uma coisa que é engraçado, se sentir leve e ter uma energia linear durante o dia todo se torna viciante de uma forma que é tão difícil de explicar, o que anda acontecendo muito é ter tanta energia que as vezes meu dia literalmente muda de 24h para 48h pois não consigo dormir, por exemplo agora que é madrugada e estou aqui escrevendo minha retrospectiva depois de malhar, ter tido reunião de trabalho e várias outras coisas, tem sobrado energia no final das 24h.</p>
+<h2 id="lado-financeiro-">LADO FINANCEIRO $$</h2>
+<p>Foi o melhor ano da minha vida em relação a situação financeira, não porque ganhei muito dinheiro, ganhei a mesma coisa que os outros anos, mas porque eu estou aprendendo a respeitar o dinheiro.</p>
+<p>Exemplo agora é final do ano estou de férias do trabalho e da faculdade, contratei alguns serviços esse ano para aumentar meu conhecimento e além que iremos virar o ano eu estou com praticamente com as contas com 2 meses de antecedência, claro, tirando água, net que isso é calculado e vem a fatura de forma mensal, mas com esses serviços todos pagos.</p>
+<p>Mas o foco aqui é que aprendi que quem não respeita o dinheiro nunca irá tê-lo, eu tive a oportunidade de entender e aprender um pouco sobre isso, não me tornei um economista ou um investidor longe disso mas foram pequenas mudanças e alguns hábitos de pobreza que eu tinha e agora comecei trocá-los pelo de abundância.</p>
+<h2 id="o-que-tem-para-2018-">O QUE TEM PARA 2018?</h2>
+<p>Dessa vez <em>não</em> irei abrir de forma pública todos meus planos para 2018, de spoiler o que posso soltar que não é para 2018 e sim para 2028.</p>
+<p>Esse ano que passou aprendi a grandeza do que é pensar a longo prazo, o quanto isso é importante e que para chegar no topo e se manter lá.</p>
+<p>Acredito que trabalhando bem todos um dia irá chegar lá, mas, para se manter no topo aí que entra a diferença de quem merece ou não, as metas estão todas alinhadas para se tornar o melhor do <strong>mundo naquilo que eu faço</strong>.</p>
+<p>Um pouco sobre o que posso falar é que vem novidades pesadas no <strong>#Terra</strong>, ocupei as 24h do meu dia entre trabalho, estudo e cuidados da saúde mental e do corpo e como último spoiler posso garantir que um novo milionário está chegando e que está bem perto disso acontecer.</p>
+<h3 id="inspira-o">Inspiração</h3>
+<p>Mas uma coisa que tenho como missão é, além do código quero mostrar para o mundo que todos podemos ir muito além do que nossos pais, professores de escola/faculdade nos ensinam/ensinaram ou até mesmo onde colocam crenças limitadoras em cima de nós e com isso sigo o meu trabalho tentando fazer o melhor e dar o melhor exemplo de trabalhador que não tenta encurtar o caminho, sei do valor de uma história e com isso as vezes temos presentes assim:</p>
+<p><img src="/images/retrospectiva-2017/inspiracao.png" alt="inspiração"></p>
+<h3 id="despedida">Despedida</h3>
+<p>Com isso encerro meu ano deixando uma mensagem que é uma das minhas orações e lembrar que sim, existe os fracos e os fortes, mas que um fraco também pode se tornar forte.</p>
+<p>Carimba 2017 que 2018 vem forte.</p>
+<p><img src="/images/retrospectiva-2017/o-homem-na-arena-square.jpg" alt="o homem na arena"></p>
+</article>
+
+            <ul class="categories">
+                
+                    <li>
+                        <a class="categoryTag 2017" href="/categories/2017">
+                            2017
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a class="categoryTag  retrospectiva" href="/categories/retrospectiva">
+                             retrospectiva
+                        </a>
+                    </li>
+                
+            </ul>
+            <div class="sntw-wraper postContent">
+                <h3 class="title-med">Compartilhar</h3>
+
+                <ul class="article-share">
+                    <li><a class="icon fb-share btn-share" title="Facebook"     href="https://www.facebook.com/sharer.php?u=http://robsongajunior.github.io//2017/12/retrospectiva-2017"></a></li>
+                    <li><a class="icon tt-share btn-share" title="Tweeter"      href="https://twitter.com/intent/tweet?url=http://robsongajunior.github.io//2017/12/retrospectiva-2017"></a></li>
+                    <li><a class="icon gp-share btn-share" title="Google Plus"  href="https://plus.google.com/share?url=http://robsongajunior.github.io//2017/12/retrospectiva-2017"></a></li>
+                </ul>
+            </div>
+            <div class="postContent"> <section id="comments" class="comments">
+	<h3 class="title-med">Comentários</h3>
+
+    <div id="disqus_thread"></div>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section> </div>
+        </section>
+
+        <div class="clearfix"></div>
+    </main>
+
+    <footer id="footer">
+    <div class="wrap-content">
+        <cite>
+            Orgulhosamente criado com <a href="https://github.com/es6rocks/harmonic/" target="_blank">Harmonic</a>.
+        </cite>
+    </div>
+</footer>
+
+
+<script type="text/javascript" src="/js/main.js" charset="utf-8"></script>
+<script type="text/javascript" src="/js/vendor/prism.js" charset="utf-8"></script>
+
+</body>
+</html>
