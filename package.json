@@ -1,6 +1,6 @@
 {
   "private": true,
   "dependencies": {
-    "harmonic-theme-robsonjunior": "latest"
+    "harmonic-theme-robsonjunior": "file:../harmonic-theme-robsonjunior"
   }
 }
