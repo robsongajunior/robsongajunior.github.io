@@ -6,9 +6,18 @@
         <description>Aqui conto o que acontece na minha carreira, o que estudo e tudo que venho aprontando no mundo developer.</description>
         <managingEditor>@robsongajunior</managingEditor>
         <webMaster>@robsongajunior</webMaster>
-        <pubDate>Mon, 20 Feb 2017 01:17:51 GMT</pubDate>
+        <pubDate>Sun, 31 Dec 2017 06:15:26 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://robsongajunior.github.io//rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Retrospectiva 2017</title>
+            <link>http://robsongajunior.github.io//2017/12/retrospectiva-2017</link>
+            <description><![CDATA[<p>Como de costume, nos meus últimos 4 anos quando chegamos nessa data final de ano, aproveito que praticamente paramos para fazer reflexões, olhaar para trás e decidir o que e como</p>
+]]></description>
+            <pubDate>Sun, 31 Dec 2017 04:51:02 GMT</pubDate>
+            <guid>http://robsongajunior.github.io//2017/12/retrospectiva-2017</guid>
+        </item>
         
         <item>
             <title>#TerraNetworks1095</title>
