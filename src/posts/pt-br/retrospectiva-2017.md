@@ -12,9 +12,9 @@ coverAlt: retrospectiva 2017
 -->
 
 
-Como de costume, nos meus últimos 4 anos quando chegamos nessa data final de ano, aproveito que praticamente paramos para fazer reflexões, olhaar para trás e decidir o que e como<!--more--> será o próximo ano.
+Como de costume, nos meus últimos 4 anos quando chegamos nessa data final de ano, aproveito que praticamente paramos para fazer reflexões, olhar para trás e decidir o que e como<!--more--> será o próximo ano.
 
-Eu gosto de fazer uma retrospectiva porque não me deixa esquecer __quem eu era, no que me tornei e quem eu serei__ me dando mais clareza mental para esquematiar da melhor forma que executerei e colocaquei minhas metas para DONE uma por uma.
+Eu gosto de fazer uma retrospectiva porque não me deixa esquecer __quem eu era, no que me tornei e quem eu serei__ me dando mais clareza mental para esquematizar da melhor forma que executarei e colocarei minhas metas para DONE uma por uma.
 
 Não irei mentir, dizendo que foi um ano simples...
 
@@ -33,7 +33,7 @@ Desde que comecei trabalhar com tecnologia, foi o ano que menos estudei tecnolog
 
 ... contratei os serviços de uma escola de meditação logo no início do ano e mal fazia idéia de que aquilo mudaria completamente o rumo das coisas.
 
-É incrível que quando o auto conhecimento vem, algumas coisas que faziam sentido até então, param de fazer e com isso comecei mudar meu círculo de amizades, pessoas com quem me relaciono entre várias outras mudanças, com isso, meu poder de decição evoluiu muito rápido, aprendi que tudo que acontecer na minha vida é apenas responsabilidade minha devido a ações e escolhas que tomei.
+É incrível que quando o auto conhecimento vem, algumas coisas que faziam sentido até então, param de fazer e com isso comecei mudar meu círculo de amizades, pessoas com quem me relaciono entre várias outras mudanças, com isso, meu poder de decisão evoluiu muito rápido, aprendi que tudo que acontecer na minha vida é apenas responsabilidade minha devido a ações e escolhas que tomei.
 
 Vou dar alguns exemplos.
 
@@ -44,9 +44,9 @@ Vou dar alguns exemplos.
 - Tal coisa não saiu como eu queria!!
 	- O formato que eu joguei o jogo fez que essa tal coisa que tanto desejo não desse certo.
 
-Quando finalmente olhamos para a cara da incompetencia é normal nos assustarmos mas cada um descide como lidar com isso afinal todos temos muitos problemas, a diferença que quando alguém hoje vê um problema eu aprendi ver a oportunidade e isso automaticamente te melhora em todas as áreas, financeiro, relacionamento, profissional, mente, corpo e assim por diante.
+Quando finalmente olhamos para a cara da incompetência é normal nos assustarmos mas cada um decide como lidar com isso afinal todos temos muitos problemas, a diferença que quando alguém hoje vê um problema eu aprendi ver a oportunidade e isso automaticamente te melhora em todas as áreas, financeiro, relacionamento, profissional, mente, corpo e assim por diante.
 
-Voce deixa de ser menino e vira homem com a diferença é que tem meninos que viram homem cedo e homems que parece ser eternamente meninos, mas, voce escolhe qual jogo jogar.
+Voce deixa de ser menino e vira homem com a diferença que tem meninos que viram homens cedo e homens que parecem ser eternamente meninos, mas, você escolhe qual jogo jogar.
 
 Aprendi também que sucesso é apenas uma decisão, sim entendo que todos querem o tal sucesso mas nem todos estão preparados para realmente ter e vou dar outros exemplos:
 
@@ -54,17 +54,17 @@ Aprendi também que sucesso é apenas uma decisão, sim entendo que todos querem
 	- ... aaah não fiz porque fulano fez tal coisa
 - O jogo de primeira divisão não admite culpados.
 	- é trocada essa palavra por responsáveis
-- O jogo de primeira divisão não admite que voce
-	- suba jogando como segunda divisão, ele exige que voce jogo como top player
+- O jogo de primeira divisão não admite que você
+	- suba jogando como segunda divisão, ele exige que você jogo como top player
 
 O que queria dizer com isso?
 
-Que temos a vida que merecemos, aprendi que não tem como jogar o jogo top player sem mudar todas as atitudes que usei a cima como exemplo e entre várias outras, isso me deu o controle total das minhas ações em um formato muito claro.
+Que temos a vida que merecemos, aprendi que não tem como jogar o jogo top player sem mudar todas as atitudes que usei acima como exemplo e entre várias outras, isso me deu o controle total das minhas ações em um formato muito claro.
 
 
 
 
-## ESPORTE E ENTERTENIMENTO
+## ESPORTE E ENTRETENIMENTO
 
 
 ### Futsal
@@ -88,7 +88,7 @@ Comprei uma BMX, e como para fazer manobras, ela sim só depende da sua dedicaç
 
 
 <p style="text-align: center">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/RMkwhKYjOfQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+	<iframe width="100%" height="400" src="https://www.youtube.com/embed/RMkwhKYjOfQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </p>
 
 
@@ -106,11 +106,11 @@ Um ano anterior eu dei palestras em vários eventos de tenologias aqui em Porto 
 - PythonBrasil em FLoripa no CentroSul (lightning talk)
 - TcheLinux
 
-Era legal estar em um palco, aquela galera me olhando e podendo soltar o verbo falando sobre tudo que eu gosto de estudar, porém, as coisas começaram tomar um rumo onde comecei ficar insatisfeito, começou não ser tanto por gosto ou por talento e sim para se aparecer ou para estar em um palco e isso me fez ir pro lado competitivo, onde se mede a habilidade de forma justa e com critérios claros de merecimento, e não porque voce trabalha em uma empresa foda ou porque é o cool do momento.
+Era legal estar em um palco, aquela galera me olhando e podendo soltar o verbo falando sobre tudo que eu gosto de estudar, porém, as coisas começaram tomar um rumo onde comecei ficar insatisfeito, começou não ser tanto por gosto ou por talento e sim para se aparecer ou para estar em um palco e isso me fez ir pro lado competitivo, onde se mede a habilidade de forma justa e com critérios claros de merecimento, e não porque você trabalha em uma empresa foda ou porque é o cool do momento.
 
-Depois de partipar do primeiro campeonato em 2016 onde fui praticamente humilhado por um professor onde me esmagou com sua pontuação extrema, vi que precisava crescer muito e estudar urgente em um formato insano caso quisésse ter chance de ganhar algo.
+Depois de partipar do primeiro campeonato em 2016 onde fui praticamente humilhado por um professor onde me esmagou com sua pontuação extrema, vi que precisava crescer muito e estudar urgente em um formato insano caso quisesse ter chance de ganhar algo.
 
-Estudei, me inscrevi em capeonatos como __#HackerHank__ e também comecei estudar linguagens como __#Python__ e __#NodeJS__ de forma mais árdua, continuei perdendo.
+Estudei, me inscrevi em campeonatos como __#HackerHank__ e também comecei estudar linguagens como __#Python__ e __#NodeJS__ de forma mais árdua, continuei perdendo.
 
 A última derrota que lembro, chorei muito tipo desespero, foi um campeonato a nível internacional com __7k programadores de todo mundo__ onde eu fiquei em __4xx e alguma coisa__, mas a diferença era que __levei 10h para escrever um algorítimo__ e o primeiro colocado levou apenas __49 segundos__ e _isso me abalou_, foi quando comecei procurar controle emocional através da meditação.
 
@@ -157,17 +157,17 @@ Tive uma aula do que é ser humano com o __Erick Krominski__ onde tive vários i
 ![BrazilJS](/images/retrospectiva-2017/brjs.png)
 
 
-Foram tantos eventos que fui neste ano desde hackathons a competições que se eu escrever sobre todos acredito que esse texto ficará quase um salmos bíblico :p
+Foram tantos eventos que fui neste ano desde hackathons a competições que se eu escrever sobre todos acredito que esse texto ficará quase um salmo bíblico :p
 
 
 ### highstakes on the road
 Poooorra man, esse evento foi louco...
 
-... tive oportunidade de conhecer pessoalmente quem hoje é um dos meus principais mestres, quem me trás conhecimentos milenares para os 5 pilares da vida e que depois que voce experimenta entende como é performar na melhor performance possível a sua arte.
+... tive oportunidade de conhecer pessoalmente quem hoje é um dos meus principais mestres, quem me trás conhecimentos milenares para os 5 pilares da vida e que depois que você experimenta entende como é performar na melhor performance possível a sua arte.
 
 Um resumo é um cara que viajou o mundo e investiu milhões em conhecimento, quando viu a gigante vantagem competitiva que isso dá perante os demais começou externalizar formando a sua comunidade onde tenho maior orgulho de fazer parte.
 
-No início pessoas normais dizem que os resultados são sorte, depois quando vira hábito todos acreditam que voce tinham potencial (psss ata né).
+No início pessoas normais dizem que os resultados são sorte, depois quando vira hábito todos acreditam que você tinham potencial (psss ata né).
 
 Esse evento foi em uma vibe diferenciada de todos outros, lá ninguém estava para julgar e sim para melhorar/compartilhar, eu era um dos poucos que não era empreendedores, tinha empresários de tudo que é nível, desde iniciante até milionários e todos conectados pelo mesmo objetivo, descobrir a razão e ir para o próximo nível de execução e de propósito.
 
@@ -212,7 +212,7 @@ Foram poucos minutos mas que eu estava totalmente presente e acredito que conseg
 ### PROFISSIONAL E TERRA NETWORKS S/A
 Não posso negar que oportunidades vem com algumas dificuldades, iniciando por onde trabalho foi um ano onde tivemos várias baixas, mídia contando mentiras sobre nós e infelizes piadas sobre tal, veio assuntos como:
 
-- Por que voce ainda está no Terra? É uma empresinha sem futuro.
+- Por que você ainda está no Terra? É uma empresinha sem futuro.
 - O Terra faliu.
 - O Terra só tem diretoria tosca por isso está como está.
 
@@ -228,9 +228,9 @@ Estou lá porque amo tanto a empresa que eu tinha duas férias para tirar, se n�
 
 Estou lá porque é onde tem gigantes profissionais, que olho os bastidores e são exemplo de disciplina e de resultado, além, de sempre quererem elevar a sua média.
 
-Aprendi a importancia de uma boa comunicação com o meu gestor e um outro grande mestre que eu me espelho muito e que nos trouxe vários reconhecimentos.
+Aprendi a importância de uma boa comunicação com o meu gestor e um outro grande mestre que me espelho muito e que nos trouxe vários reconhecimentos.
 
-Aprendi a tamanha importancia de uma execução com enorme maestria, tendo múltiplas perspectivas novas a cada dia, seja na hora de trabalho, almoço ou até em nossos churrascos.
+Aprendi a tamanha importância de uma execução com enorme maestria, tendo múltiplas perspectivas novas a cada dia, seja na hora de trabalho, almoço ou até em nossos churrascos.
 
 Um ponto que considero forte demais é que é muito fácil falar mal, mas poucos tem skill e maestria para pegar algo gigante andando e conseguir arrumar e digo de passagem que fizemos isso muito bem.
 
@@ -238,7 +238,7 @@ Como prova disso, __tivemos reconhecimento a nível mundial nos maiores eventos 
 
 Lá fomos citados pelo execlente trabalho e aposta em __PWA__, __AMP__ e também fomos usados nosso case em seus workshops sobre tal tema.
 
-Isso foi possível possível porque temos um visionário no nosso time e ele sabe conduzir seu time de forma muito exemplar e trabalhando junto com ele. 
+Isso foi possível porque temos um visionário no nosso time e ele sabe conduzir seu time de forma muito exemplar e trabalhando junto com ele. 
 
 
 ![Reconhecimento Google para sobre Terra Networks S/A](/images/retrospectiva-2017/google-terra.jpg)
@@ -255,13 +255,13 @@ Voltando um pouco, a tive oportunidade pela primeira vez de falar na época para
 - poxa vou ter que trabalhar mais, mas não.
 	- eu gosto disso, gosto de desafio principalmente se disser que não tem como fazer, irei trabalhar até eu aprender como fazer e irei fazer, não é a toa que estou lá há alguns anos.
 
-Durante vários anos da empresa mantivemos 3 plataformas para o sistema de troca de mensagens, em breve posso dizer que o produto em que sou um dos devs responsáveis irá ser a única utilizada matando todas as outras, isso me deu um tesão insano para continuar trabalhando em um formato #highstakes onde eu apostei até as fichas que eu não tinha em mãos podendo avacalhar meu nome, minha moral e principalmente minha creadibilidade com a empresa mas posso dizer que tenho noção que tive sucesso na execução.
+Durante vários anos da empresa mantivemos 3 plataformas para o sistema de troca de mensagens, em breve posso dizer que o produto em que sou um dos devs responsáveis irá ser a única utilizada matando todas as outras, isso me deu um tesão insano para continuar trabalhando em um formato __#highstakes__ onde eu apostei até as fichas que eu não tinha em mãos podendo avacalhar meu nome, minha moral e principalmente minha credibilidade com a empresa mas posso dizer que tenho noção que tive sucesso na execução.
 
 
 
 
 ## SAÚDE
-Agora em dezembro, finalmente depois de 10 anos voltei para academia, no inicio do ano eu pesava 98kg, agora estou com 80 praticamente ao meu peso normal que eu tinha antes de me atirar na vagabundagem usando como desculpa que era porque eu não tinha tempo porque trabalho de dia e estudo de noite...
+Agora em dezembro, finalmente depois de 10 anos voltei para academia, no inicio do ano eu pesava 98kg, agora estou com 80kg praticamente ao meu peso normal que eu tinha antes de me atirar na vagabundagem usando como desculpa que era porque eu não tinha tempo porque trabalho de dia e estudo de noite...
 
 ...mas como falei, era apenas desculpa da minha própria vagabundagem.
 
@@ -275,7 +275,7 @@ Uma coisa que é engraçado, se sentir leve e ter uma energia linear durante o d
 ## LADO FINANCEIRO $$
 Foi o melhor ano da minha vida em relação a situação financeira, não porque ganhei muito dinheiro, ganhei a mesma coisa que os outros anos, mas porque eu estou aprendendo a respeitar o dinheiro.
 
-Exemplo agora é final do ano estou de férias do trabalho e da faculdade, contratei alguns serviços esse ano para aumentar meu conhecimento e além que iremos virar o ano eu estou com praticamente com as contas com 2 meses de antecedência, claro, tirando água, net que isso é calculado e vem a fatura de forma mensal, mas com esses serviços todos pagos.
+Exemplo agora é final do ano estou de férias do trabalho e da faculdade, contratei alguns serviços esse ano para aumentar meu conhecimento e além que iremos virar o ano eu estou praticamente com as contas com 2 meses de antecedência, claro, tirando água, net que isso é calculado e vem a fatura de forma mensal, mas com esses serviços todos pagos.
 
 Mas o foco aqui é que aprendi que quem não respeita o dinheiro nunca irá tê-lo, eu tive a oportunidade de entender e aprender um pouco sobre isso, não me tornei um economista ou um investidor longe disso mas foram pequenas mudanças e alguns hábitos de pobreza que eu tinha e agora comecei trocá-los pelo de abundância.
 
