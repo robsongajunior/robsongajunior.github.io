@@ -14,7 +14,7 @@ coverAlt: retrospectiva 2017
 
 Como de costume, nos meus últimos 4 anos quando chegamos nessa data final de ano, aproveito que praticamente paramos para fazer reflexões, olhar para trás e decidir o que e como<!--more--> será o próximo ano.
 
-Eu gosto de fazer uma retrospectiva porque não me deixa esquecer __quem eu era, no que me tornei e quem eu serei__ me dando mais clareza mental para esquematizar da melhor forma que executarei e colocarei minhas metas para DONE uma por uma.
+Eu gosto de fazer uma retrospectiva porque não me deixa esquecer __quem eu era, no que me tornei e quem eu serei__ me dando mais clareza mental para esquematizar da melhor forma que executarei e colocarei minhas metas para *DONE* uma por uma.
 
 Não irei mentir, dizendo que foi um ano simples...
 
@@ -31,7 +31,7 @@ Poderia falar ou chamar de um ano problemático mas como cada um vê o mundo com
 
 Desde que comecei trabalhar com tecnologia, foi o ano que menos estudei tecnologia, foquei muito em conhecimento pessoal...
 
-... contratei os serviços de uma escola de meditação logo no início do ano e mal fazia idéia de que aquilo mudaria completamente o rumo das coisas.
+... contratei os serviços de uma escola de meditação logo no início do ano e mal fazia ideia de que aquilo mudaria completamente o rumo das coisas.
 
 É incrível que quando o auto conhecimento vem, algumas coisas que faziam sentido até então, param de fazer e com isso comecei mudar meu círculo de amizades, pessoas com quem me relaciono entre várias outras mudanças, com isso, meu poder de decisão evoluiu muito rápido, aprendi que tudo que acontecer na minha vida é apenas responsabilidade minha devido a ações e escolhas que tomei.
 
@@ -46,7 +46,7 @@ Vou dar alguns exemplos.
 
 Quando finalmente olhamos para a cara da incompetência é normal nos assustarmos mas cada um decide como lidar com isso afinal todos temos muitos problemas, a diferença que quando alguém hoje vê um problema eu aprendi ver a oportunidade e isso automaticamente te melhora em todas as áreas, financeiro, relacionamento, profissional, mente, corpo e assim por diante.
 
-Voce deixa de ser menino e vira homem com a diferença que tem meninos que viram homens cedo e homens que parecem ser eternamente meninos, mas, você escolhe qual jogo jogar.
+Você deixa de ser menino e vira homem com a diferença que tem meninos que viram homens cedo e homens que parecem ser eternamente meninos, mas, você escolhe qual jogo jogar.
 
 Aprendi também que sucesso é apenas uma decisão, sim entendo que todos querem o tal sucesso mas nem todos estão preparados para realmente ter e vou dar outros exemplos:
 
@@ -84,7 +84,7 @@ Logo comecei jogar poker, onde novamente por começar estudar bastante os amigos
 
 
 ### Bmx
-Comprei uma BMX, e como para fazer manobras, ela sim só depende da sua dedicação e isso me encantou porque onde eu poderia chegar dependeria do quanto eu treinasse, passou dois meses e estava dando um rolê legal para o tempo que andava, já estava subindo caixotes, corrimão e dando 180 além de aprender andar no Park Marinha aqui em Porto Alegre.
+Comprei uma BMX, e como para fazer manobras, ela sim só depende da sua dedicação e isso me encantou porque onde eu poderia chegar dependeria do quanto eu treinasse, passou dois meses e estava dando um rolê legal para o tempo que andava, já estava subindo caixotes, corrimão e dando 180 além de aprender andar no Parque Marinha aqui em Porto Alegre.
 
 
 <p style="text-align: center">
@@ -93,7 +93,7 @@ Comprei uma BMX, e como para fazer manobras, ela sim só depende da sua dedicaç
 
 
 ## EVENTOS - PALESTRAS - CAMPEONATOS
-Como o auto-conhecimento veio eu comecei entender mais sobre coisas que eu gostava e outras que não tanto mas que eu ainda fazia e não sabia realmente o motivo.
+Como o autoconhecimento, comecei á entender mais sobre coisas que eu gostava e outras que nem tanto mas que eu ainda fazia e não sabia realmente o motivo.
 
 Um ano anterior eu dei palestras em vários eventos de tenologias aqui em Porto Alegre e no interior do Estado como:
 
@@ -106,7 +106,7 @@ Um ano anterior eu dei palestras em vários eventos de tenologias aqui em Porto 
 - PythonBrasil em FLoripa no CentroSul (lightning talk)
 - TcheLinux
 
-Era legal estar em um palco, aquela galera me olhando e podendo soltar o verbo falando sobre tudo que eu gosto de estudar, porém, as coisas começaram tomar um rumo onde comecei ficar insatisfeito, começou não ser tanto por gosto ou por talento e sim para se aparecer ou para estar em um palco e isso me fez ir pro lado competitivo, onde se mede a habilidade de forma justa e com critérios claros de merecimento, e não porque você trabalha em uma empresa foda ou porque é o cool do momento.
+Era legal estar em um palco, aquela galera me olhando e podendo soltar o verbo e falando sobre tudo que eu gosto de estudar, porém, as coisas começaram tomar um rumo onde comecei ficar insatisfeito, começou não ser tanto por gosto ou por talento e sim para se aparecer ou para estar em um palco e isso me fez ir pro lado competitivo, onde se mede a habilidade de forma justa e com critérios claros de merecimento, e não porque você trabalha em uma empresa foda ou porque é o *cool* do momento.
 
 Depois de partipar do primeiro campeonato em 2016 onde fui praticamente humilhado por um professor onde me esmagou com sua pontuação extrema, vi que precisava crescer muito e estudar urgente em um formato insano caso quisesse ter chance de ganhar algo.
 
@@ -124,7 +124,7 @@ Voltei e agora no final do ano em novembro e competi em um campeonato menor que 
 ### Facebook Developers Cicle
 Uma oportunidade incrível e atípica que rolou foi ter contato direto com uma advocate do Facebook que veio ver como é a cena local de tecnologia para que o Facebook pudesse nos dar apoio total com um novo formato de comunidade.
 
-Nessa noite, tive a experiência do que é conversar apenas 100% em inglês e foi um desfio bem interessante.
+Nessa noite, tive a experiência do que é conversar apenas 100% em inglês e foi um desafio bem interessante.
 
 Apesar de ter que saber inglês para poder estudar programação e ter acesso a conteúdos exclusivos, conversar olho a olho é muito diferente.
 
@@ -169,7 +169,7 @@ Um resumo é um cara que viajou o mundo e investiu milhões em conhecimento, qua
 
 No início pessoas normais dizem que os resultados são sorte, depois quando vira hábito todos acreditam que você tinham potencial (psss ata né).
 
-Esse evento foi em uma vibe diferenciada de todos outros, lá ninguém estava para julgar e sim para melhorar/compartilhar, eu era um dos poucos que não era empreendedores, tinha empresários de tudo que é nível, desde iniciante até milionários e todos conectados pelo mesmo objetivo, descobrir a razão e ir para o próximo nível de execução e de propósito.
+Esse evento foi em uma *vibe* diferenciada de todos outros, lá ninguém estava para julgar e sim para melhorar/compartilhar, eu era um dos poucos que não era empreendedores, tinha empresários de tudo que é nível, desde iniciante até milionários e todos conectados pelo mesmo objetivo, descobrir a razão e ir para o próximo nível de execução e de propósito.
 
 A energia que foi trocada nessas conexões foi uma das melhores coisas que aconteceu esse ano, tanto que logo após oficialmente me tornei aluno desse maluco que já foi o melhor jogador de poker do mundo jogando os jogos mais caros do mundo. Respect.
 
