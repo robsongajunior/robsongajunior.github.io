@@ -9,17 +9,21 @@ html[breakpoint="xs"] .wrap-content{
     padding-left: 20px;
     padding-right: 20px;
 }
+
 html[breakpoint="s"] .wrap-content{
 	.container(@c-s);
     padding-left: 20px;
     padding-right: 20px;
 }
+
 html[breakpoint="m"] .wrap-content{
 	.container(@c-m);
 }
+
 html[breakpoint="l"] .wrap-content{
 	.container(@c-l);
 }
+
 html[breakpoint="xl"] .wrap-content{
 	.container(@c-xl);
 }
@@ -110,7 +114,16 @@ h6{
 blockquote {
     padding: 0px 15px;
     color: #777;
-    border-left: 4px solid #DDD;
+    border-left: 4px solid #ddd;
+}
+
+hr{
+    border: none;
+    border-bottom: solid 1px #ddd;
+    width: 100%;
+    height: 1px;
+    display: block;
+    background-color: transparent;
 }
 
 .title-med{
@@ -121,3 +134,5 @@ blockquote {
     border-bottom: solid 1px @borderColor;
     border-top: solid 1px @borderColor;
 }
+
+

@@ -247,7 +247,15 @@ h6 {
 blockquote {
   padding: 0px 15px;
   color: #777;
-  border-left: 4px solid #DDD;
+  border-left: 4px solid #ddd;
+}
+hr {
+  border: none;
+  border-bottom: solid 1px #ddd;
+  width: 100%;
+  height: 1px;
+  display: block;
+  background-color: transparent;
 }
 .title-med {
   color: #000;
@@ -615,4 +623,66 @@ html[breakpoint='xl'] .title {
 }
 .article-share .btn-share.gp-share {
   background-position: -335px 0px;
+}
+.content-left {
+  text-align: left;
+}
+.content-right {
+  text-align: right;
+}
+.content-job li {
+  border-bottom: solid 1px #ddd;
+  margin: 20px 40px;
+  padding-bottom: 20px;
+}
+.content-job li:last-child {
+  border: none;
+}
+.skill-bar {
+  display: block;
+  background-color: #ddd;
+  border-radius: 4px;
+  margin: 10px 0;
+  float: right;
+  padding: 10px 20px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+}
+.content-contact-list {
+  text-align: center;
+  background: #fff;
+  padding: 20px 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+  margin: 60px 0;
+  display: block;
+}
+.skill-bar-10 {
+  width: 10%;
+}
+.skill-bar-20 {
+  width: 20%;
+}
+.skill-bar-30 {
+  width: 30%;
+}
+.skill-bar-40 {
+  width: 40%;
+}
+.skill-bar-50 {
+  width: 50%;
+}
+.skill-bar-60 {
+  width: 60%;
+}
+.skill-bar-70 {
+  width: 70%;
+}
+.skill-bar-80 {
+  width: 80%;
+}
+.skill-bar-90 {
+  width: 90%;
+}
+.skill-bar-100 {
+  width: 100%;
 }
