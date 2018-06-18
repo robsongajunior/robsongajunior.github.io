@@ -99,13 +99,13 @@ Adivinha o que eu fiz?
 
 Siim, resolvi ir em eventos fora do estado, queria muito conhecer como é a cultura Open Source de outros estados, além de conhecer a galera e ver o que estão fazendo, e claro, junto com tudo isso conhecer novos lugares, afinal a vida é muito curta para viajar somente em fim de ano.
 
-Pude prestigiar o [FrontInSampa](http://www.frontinsampa.com.br/) e me desculpem a palavra mas foi dukaralho, evento regional com palestrantes gringos e excelentes talks com muito conteúdo novo, sem contar a pedrada de festa pós-evento com direito a um DJ Alucinado.
+Pude prestigiar o [FrontInSampa](https://www.frontinsampa.com.br/) e me desculpem a palavra mas foi dukaralho, evento regional com palestrantes gringos e excelentes talks com muito conteúdo novo, sem contar a pedrada de festa pós-evento com direito a um DJ Alucinado.
 
 
 ![FrontInSampa](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xtf1/v/t1.0-9/12278742_929953133751596_6868817427209483525_n.jpg?oh=87435b2153e8ddeacea7f980a0b7b9ab&oe=57147647&__gda__=1460466972_67e49e5e9031d1c48789ab5da791d030)
 
 
-Pude prestigiar também Aracajú(Sergipe), no [RockAndCode/FrontInAracaju](http://www.frontinaracaju.com.br/) mais de 3.000km de casa, foi de arrepiar, nunca estive tão longe de casa e além disso estava sozinho.
+Pude prestigiar também Aracajú(Sergipe), no [RockAndCode/FrontInAracaju](https://www.frontinaracaju.com.br/) mais de 3.000km de casa, foi de arrepiar, nunca estive tão longe de casa e além disso estava sozinho.
 A receptividade na cidade foi fora do sério, agradeço muito ao [Ítalo](https://www.linkedin.com/in/italowaxman) que deu a força lá para que a experiência fosse a melhor possível.
 
 Bom, nem preciso falar porque o nome já faz jus ao evento, rolou talk técnica, sobre mercado de trabalho e principalmente não faltou Metal pra galera com uma vista irada de frente para o mar.

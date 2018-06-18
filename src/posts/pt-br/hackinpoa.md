@@ -13,7 +13,7 @@ coverAlt: HackInPoa - 2015
 
 ![Banner HackInPOA](/images/hackinpoa/hackinpoa.jpg)
 
-Como __boas vindas__ em Porto Alegre, nos dias 11 e 12 de abril, a [Globo.com](http://www.globo.com/) organizou um hackton para galera, mas não tinha só pessoas da capital fazendo barulho, o evento bombou <!--more--> tanto que teríamos exemplos pra falar de pessoas que as 5h da manhã estava viajando para conseguir chegar em Porto Alegre e ir para o evento a tempo.
+Como __boas vindas__ em Porto Alegre, nos dias 11 e 12 de abril, a [Globo.com](https://www.globo.com/) organizou um hackton para galera, mas não tinha só pessoas da capital fazendo barulho, o evento bombou <!--more--> tanto que teríamos exemplos pra falar de pessoas que as 5h da manhã estava viajando para conseguir chegar em Porto Alegre e ir para o evento a tempo.
 
 Foram mais de 800 pessoas inscritas e 104 participantes, onde 94 mostraram certeza que eram maníacos por tecnologia, code e open source.
 
@@ -95,12 +95,12 @@ Foi impressionante, nunca tinha visto tantos nerds triturando ideias e escovando
     * Share Blood
 
 
-Um pouco das descriçõs dos projetos podem ser encontradas [aqui](http://www.techtudo.com.br/listas/noticia/2015/04/hack-poa-conheca-os-28-projetos-de-apps-que-ficarao-prontos-em-24h.html).
+Um pouco das descriçõs dos projetos podem ser encontradas [aqui](https://www.techtudo.com.br/listas/noticia/2015/04/hack-poa-conheca-os-28-projetos-de-apps-que-ficarao-prontos-em-24h.html).
 
 
 ## Primeiras horas
 
-Eu era integrande do time __#138__, galera já conhecida e ex-companheiros de [Terra](http://www.terra.com.br/). Pra mim tudo estava perfeito, evento já me surpreendendo desde início e eu gui aceito em um time onde tinha profissionais que admiro muito o trabalho.
+Eu era integrande do time __#138__, galera já conhecida e ex-companheiros de [Terra](https://www.terra.com.br/). Pra mim tudo estava perfeito, evento já me surpreendendo desde início e eu gui aceito em um time onde tinha profissionais que admiro muito o trabalho.
 
 ![HackInPoa - Time 138](/images/hackinpoa/hackinpoa-138-team.jpg)
 
@@ -195,7 +195,7 @@ Então, que rufem os tambores!!
 
 ![HackInPoa - rufem os tambores](/images/hackinpoa/hackinpoa-rufem-os-tambores.jpg)
 
-Anunciado os times campeões que com mais detalhes podem ser encontrados [aqui](http://www.techtudo.com.br/noticias/noticia/2015/04/hack-poa-vencedores-sao-anunciados-e-levam-iphone-6-e-moto-x.html).
+Anunciado os times campeões que com mais detalhes podem ser encontrados [aqui](https://www.techtudo.com.br/noticias/noticia/2015/04/hack-poa-vencedores-sao-anunciados-e-levam-iphone-6-e-moto-x.html).
 
 Foi muito bom ver a alegria que foi anunciado e a reação dos times que venceram!
 

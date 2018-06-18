@@ -8,7 +8,7 @@ keywords:
 description: 2016 foi um um ano bom, mais tranquilos em alguns aspéctos e mais agitado em outros.
 categories: 2016, retrospectiva
 cover: /images/retrospectiva-2016/cover.jpg
-cover: http://www.guduxus.com.br/wp-content/uploads/2016/02/2016-predictions-930x527.jpg
+cover: https://www.guduxus.com.br/wp-content/uploads/2016/02/2016-predictions-930x527.jpg
 coverAlt: Capa Retrospectiva 2016
 -->
 
@@ -136,14 +136,14 @@ Acho que deu pra sentir um pouco da situação toda que me deparei esse ano no l
 Não bastando isso, estamos junto aos maiores do mundo e sendo admirados como pode ser visto no link a baixo:
 
 
-[_http://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html_](http://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html)
+[_https://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html_](https://www.meioemensagem.com.br/home/midia/2016/12/05/em-nova-edicao-veiculos-mais-admirados-dobra-painel.html)
 
 Podemos estar na décima posição em um ranking de 10, mas são 10 gigantes...
 
 ... mais dificil que estar em primeiro entre os pequenos é estar entre os 10 maiores do mundo!
 
 
-![Top 10 mais admirados](http://www.meioemensagem.com.br/wp-content/uploads/2016/12/plataformas-midias.jpg)
+![Top 10 mais admirados](https://www.meioemensagem.com.br/wp-content/uploads/2016/12/plataformas-midias.jpg)
 
 
 Um outra grande mudança que foi muito importante para empresa nesse ano foi a ida para o novo prédio.

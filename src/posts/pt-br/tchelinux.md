@@ -20,7 +20,7 @@ Sendo bem sincero nosso __TchêLinux__ do dia 06/12 começou no dia 05/12 as 23h
 Isso me deu um gás pra ir no evento, afinal nunca botei fé em eventos ou qualquer coisa que fosse gratuita, afinal __Open Source/Free__ tem uma _diferença_ enorme para a palavra __grátis__.
 
 ##Checkin
-Bom, sabadão 8:30h da manhã lá estávamos nós na [Faculdade de Tecnologia Senac](http://www.senacrs.com.br/).
+Bom, sabadão 8:30h da manhã lá estávamos nós na [Faculdade de Tecnologia Senac](https://www.senacrs.com.br/).
 
 De início tudo pareceu desorganizado, não tinha ninguém realizando os checkins e muito menos, recebendo os 2kg de alimentos que os participantes estavam levando. Uma galera perdida, e até então foi o único evento que participei onde se encontrava aquela desordem toda, senti falta na hora do [Guilherme Mar](https://www.facebook.com/guilhermemar), tenho certeza que ele teria dado um carinho maior.
 
