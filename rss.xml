@@ -6,9 +6,18 @@
         <description>Aqui conto o que acontece na minha carreira, o que estudo e tudo que venho aprontando no mundo developer.</description>
         <managingEditor>@robsongajunior</managingEditor>
         <webMaster>@robsongajunior</webMaster>
-        <pubDate>Thu, 08 Feb 2018 02:11:28 GMT</pubDate>
+        <pubDate>Mon, 18 Jun 2018 18:05:26 GMT</pubDate>
         <language>pt-br</language>
         <atom:link href="http://robsongajunior.github.io//rss.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>OBRIGADO Terra</title>
+            <link>http://robsongajunior.github.io//2018/06/obrigado-terra</link>
+            <description><![CDATA[<p>Pensei vários jeitos de escrever alguns tipos de email persinalizado para cada pessoa que tenho que agradecer, fazer um artigo comentando minha tragetória ou até mesmo citar projetos.</p>
+]]></description>
+            <pubDate>Mon, 18 Jun 2018 17:43:36 GMT</pubDate>
+            <guid>http://robsongajunior.github.io//2018/06/obrigado-terra</guid>
+        </item>
         
         <item>
             <title>Retrospectiva 2017</title>
