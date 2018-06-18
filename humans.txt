@@ -1,14 +1,14 @@
 /* TEAM */
     Maintainer: Robson Júnior
     Contact: robson.ga.junior@gmail.com
-    Website: http://robsonjunior.cc
+    Website: https://robsongajunior.github.io
     Twitter: @robsongajunior
     GitHub: robsongajunior
     From: Porto Alegre
 
 
 /* SITE */
-    Last update: 2015/02/09
+    Last update: 2018/06/17
     Language: Portuguese
     Doctype: HTML5
     IDE: Sublime Text
